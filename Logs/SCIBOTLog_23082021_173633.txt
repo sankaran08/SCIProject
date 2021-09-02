@@ -1,0 +1,26 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 17:36:33
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 17:36:33
+08/23/2021 17:36:37 Entering Username to login UIM
+08/23/2021 17:36:45 Entering Password
+08/23/2021 17:36:59 Started : UIM Sequence
+08/23/2021 17:36:59 Click on Parties
+08/23/2021 17:37:20 Adding Billing Account Number Field
+08/23/2021 17:37:43 Entering Billing Account Number :8347100017855936
+08/23/2021 17:37:54 Storing the Parties in a datatable
+08/23/2021 17:37:56 No parties associated with the account number - 8347100017855936
+08/23/2021 17:37:56 Start the process for the next account number in transaction data
+08/23/2021 17:37:58 Started : UIM Sequence
+08/23/2021 17:37:58 Click on Parties
+08/23/2021 17:38:29 Adding Billing Account Number Field
+08/23/2021 17:38:51 Entering Billing Account Number :8347100017855852
+08/23/2021 17:39:03 Storing the Parties in a datatable
+08/23/2021 17:39:04 Loop through each party ID
+08/23/2021 17:39:04 Partie ID:22876435
+08/23/2021 17:39:04 Party Name :66219779_68708170
+08/23/2021 17:39:04 Click on Services
+08/23/2021 17:39:15 Enter Party name in party name field
+08/23/2021 17:39:27 Extracting the services into Datatable
+08/23/2021 17:39:28 Loop through each service ID
+08/23/2021 17:39:28 Click on Service ID : 22127626
+08/23/2021 17:39:30 Started : UIM Sequence
+08/23/2021 17:39:30 Click on Parties

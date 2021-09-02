@@ -1,0 +1,59 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 12:05:13
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 12:05:13
+08/23/2021 12:05:15 Started : Login UIM Sequence
+08/23/2021 12:05:18 Entering Username
+08/23/2021 12:05:31 Entering Password
+08/23/2021 12:05:42 Click on Parties
+08/23/2021 12:05:52 Adding Billing Account Number Field
+08/23/2021 12:06:15 Entering Billing Account Number :8347100017855936
+08/23/2021 12:06:17 Started : Login UIM Sequence
+08/23/2021 12:06:20 Entering Username
+08/23/2021 12:06:33 Entering Password
+08/23/2021 12:06:43 Click on Parties
+08/23/2021 12:06:54 Adding Billing Account Number Field
+08/23/2021 12:07:17 Entering Billing Account Number :8347100017855936
+08/23/2021 12:07:18 Started : Login UIM Sequence
+08/23/2021 12:07:21 Entering Username
+08/23/2021 12:07:29 Entering Password
+08/23/2021 12:07:40 Click on Parties
+08/23/2021 12:07:51 Adding Billing Account Number Field
+08/23/2021 12:08:13 Entering Billing Account Number :8347100017855936
+08/23/2021 12:08:15 Started : Login UIM Sequence
+08/23/2021 12:08:17 Entering Username
+08/23/2021 12:08:26 Entering Password
+08/23/2021 12:08:36 Click on Parties
+08/23/2021 12:08:47 Adding Billing Account Number Field
+08/23/2021 12:09:10 Entering Billing Account Number :8347100017855936
+08/23/2021 12:09:12 Started : Login UIM Sequence
+08/23/2021 12:09:15 Entering Username
+08/23/2021 12:09:23 Entering Password
+08/23/2021 12:09:33 Click on Parties
+08/23/2021 12:09:44 Adding Billing Account Number Field
+08/23/2021 12:10:07 Entering Billing Account Number :8347100017855852
+08/23/2021 12:10:08 Started : Login UIM Sequence
+08/23/2021 12:10:11 Entering Username
+08/23/2021 12:10:17 Entering Password
+08/23/2021 12:10:28 Click on Parties
+08/23/2021 12:10:39 Adding Billing Account Number Field
+08/23/2021 12:11:01 Entering Billing Account Number :8347100017855852
+08/23/2021 12:11:03 Started : Login UIM Sequence
+08/23/2021 12:11:06 Entering Username
+08/23/2021 12:11:15 Entering Password
+08/23/2021 12:11:26 Click on Parties
+08/23/2021 12:11:37 Adding Billing Account Number Field
+08/23/2021 12:11:59 Entering Billing Account Number :8347100017855852
+08/23/2021 12:12:01 Started : Login UIM Sequence
+08/23/2021 12:12:04 Entering Username
+08/23/2021 12:12:12 Entering Password
+08/23/2021 12:12:22 Click on Parties
+08/23/2021 12:12:33 Adding Billing Account Number Field
+08/23/2021 12:12:56 Entering Billing Account Number :8347100017855852
+08/23/2021 12:12:57 Started : Login UIM Sequence
+08/23/2021 12:13:00 Entering Username
+08/23/2021 12:13:09 Entering Password
+08/23/2021 12:13:20 Click on Parties
+08/23/2021 12:13:31 Adding Billing Account Number Field
+08/23/2021 12:13:54 Entering Billing Account Number :8347100017855480
+08/23/2021 12:13:55 Started : Login UIM Sequence
+08/23/2021 12:13:58 Entering Username
+08/23/2021 12:14:06 Entering Password

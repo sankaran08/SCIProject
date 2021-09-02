@@ -1,0 +1,38 @@
+﻿08/31/2021 18:39:40 The SCI BOT execution is started
+08/31/2021 18:39:40 Reading Transaction Data from Transaction Excel
+08/31/2021 18:39:40 Recorded all the Transaction data into a datatable
+08/31/2021 18:39:43 SAT Login started
+08/31/2021 18:40:29 Entering SAT Username
+08/31/2021 18:40:30 Entering SAT Password
+08/31/2021 18:40:46 Count of transaction data 4
+08/31/2021 18:40:46 Processing Account Number 8347100017856090
+08/31/2021 18:40:46Processing Transaction Number: 0
+08/31/2021 18:40:47 Started : UIM Login Sequence
+08/31/2021 18:41:17 Started : UIM process in NCE URL
+08/31/2021 18:41:18 Closing Restoe pop-up
+08/31/2021 18:41:48 Entering Username
+08/31/2021 18:41:49 Entering Password
+08/31/2021 18:42:26 Started : UIM process in NCE URL
+08/31/2021 18:42:27 Closing Restoe pop-up
+08/31/2021 18:42:57 Entering Username
+08/31/2021 18:42:58 Entering Password
+08/31/2021 18:43:32 SAT Login started
+08/31/2021 18:43:52 Logged into SAT
+08/31/2021 18:43:57 Count of transaction data 4
+08/31/2021 18:43:57 Processing Account Number 8347100017856090
+08/31/2021 18:43:57Processing Transaction Number: 0
+08/31/2021 18:43:58 Started : UIM Login Sequence
+08/31/2021 18:44:28 Started : UIM process in NCE URL
+08/31/2021 18:44:29 Closing Restoe pop-up
+08/31/2021 18:44:59 Entering Username
+08/31/2021 18:45:00 Entering Password
+08/31/2021 18:45:36 Started : UIM process in NCE URL
+08/31/2021 18:45:37 Closing Restoe pop-up
+08/31/2021 18:46:07 Entering Username
+08/31/2021 18:46:09 Entering Password
+08/31/2021 18:46:43 SAT Login started
+08/31/2021 18:46:52 Logged into SAT
+08/31/2021 18:46:58 Count of transaction data 4
+08/31/2021 18:46:58 Processing Account Number 8347100017856090
+08/31/2021 18:46:58Processing Transaction Number: 0
+08/31/2021 18:46:58 Started : UIM Login Sequence

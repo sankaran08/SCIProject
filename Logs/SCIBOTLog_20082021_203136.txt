@@ -1,0 +1,38 @@
+﻿The SCI BOT execution is started                                                                                  08/20/2021 20:31:40
+Read the Config file and saved all the data in dictionary variable                                            08/20/2021 20:31:40
+Audit Service API Request Sent                                                                                08/20/2021 20:32:03
+Audit Service API Error Response received.                                                                          08/20/2021 20:32:03
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [[APO_DLPQS_10001] :: [DEVICE_DETAILS_NOT_FOUND_IN_DLPQS]]                                                                          08/20/2021 20:32:03
+Audit Service API Request Sent                                                                                08/20/2021 20:32:14
+Audit Service API Error Response received.                                                                          08/20/2021 20:32:14
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [null]                                                                          08/20/2021 20:32:14
+Audit Service API Request Sent                                                                                08/20/2021 20:32:30
+Audit Service API Error Response received.                                                                          08/20/2021 20:32:30
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [[APO_DLPQS_10001] :: [DEVICE_DETAILS_NOT_FOUND_IN_DLPQS]]                                                                          08/20/2021 20:32:30
+Audit Service API Request Sent                                                                                08/20/2021 20:32:34
+Audit Service API Error Response received.                                                                          08/20/2021 20:32:34
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [400 null]                                                                          08/20/2021 20:32:34
+Audit Service API Request Sent                                                                                08/20/2021 20:32:50
+Audit Service API Error Response received.                                                                          08/20/2021 20:32:50
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [[APO_DLPQS_10001] :: [DEVICE_DETAILS_NOT_FOUND_IN_DLPQS]]                                                                          08/20/2021 20:32:50
+Audit Service API Request Sent                                                                                08/20/2021 20:32:52
+Audit Service API Request Sent                                                                                08/20/2021 20:32:55
+Audit Service API Error Response received.                                                                          08/20/2021 20:32:55
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [400 null]                                                                          08/20/2021 20:32:55
+Audit Service API Request Sent                                                                                08/20/2021 20:32:57
+Audit Service API Request Sent                                                                                08/20/2021 20:33:00
+Audit Service API Error Response received.                                                                          08/20/2021 20:33:00
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [400 null]                                                                          08/20/2021 20:33:00
+Audit Service API Request Sent                                                                                08/20/2021 20:33:17
+Audit Service API Error Response received.                                                                          08/20/2021 20:33:17
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [[APO_DLPQS_10001] :: [DEVICE_DETAILS_NOT_FOUND_IN_DLPQS]]                                                                          08/20/2021 20:33:17
+Audit Service API Request Sent                                                                                08/20/2021 20:33:27
+Audit Service API Error Response received.                                                                          08/20/2021 20:33:27
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [null]                                                                          08/20/2021 20:33:27
+Audit Service API Request Sent                                                                                08/20/2021 20:33:37
+Audit Service API Error Response received.                                                                          08/20/2021 20:33:37
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [null]                                                                          08/20/2021 20:33:37
+Audit Service API Request Sent                                                                                08/20/2021 20:33:47
+Audit Service API Error Response received.                                                                          08/20/2021 20:33:47
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [null]                                                                          08/20/2021 20:33:47
+Audit Service API Request Sent                                                                                08/20/2021 20:33:48

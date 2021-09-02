@@ -1,0 +1,18 @@
+﻿The SCI BOT execution is started                                                                                  08/28/2021 17:44:24
+Read the Config file and saved all the data in dictionary variable                                            08/28/2021 17:44:24
+08/28/2021 17:44:38 SAT Login started
+08/28/2021 17:44:57 Logged into SAT
+08/28/2021 17:45:03 Started : SAT Sequence
+08/28/2021 17:45:03 SAT Login successful
+08/28/2021 17:45:03 Searching for BAN
+08/28/2021 17:45:12 Found Account number in Gen2 8347100017855936
+08/28/2021 17:45:25 Started SAT process in Gen 2 for 8347100017855936
+08/28/2021 17:45:41 No TV Services associated with the Account Number -  8347100017855936
+08/28/2021 17:45:47 Perform sync for Internet Service
+08/28/2021 17:46:22 Account Sync was successful for internet Service : 8347100017855936
+08/28/2021 17:46:38 No Wifi services are associated with the Account Number - 8347100017855936
+08/28/2021 17:46:54 Error: Unale to find Sync&Provision Button for Phone Service
+08/28/2021 17:46:54 BOT Execution completed for Gen2 for : 8347100017855936
+08/28/2021 17:46:56 Started : SAT Sequence
+08/28/2021 17:46:56 SAT Login successful
+08/28/2021 17:46:56 Searching for BAN

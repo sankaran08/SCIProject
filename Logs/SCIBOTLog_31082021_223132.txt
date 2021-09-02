@@ -1,0 +1,40 @@
+﻿08/31/2021 22:31:32 The SCI BOT execution is started
+08/31/2021 22:31:32 Reading Transaction Data from Transaction Excel
+08/31/2021 22:31:32 Recorded all the Transaction data into a datatable
+08/31/2021 22:31:46 SAT Login started
+08/31/2021 22:32:06 Logged into SAT
+08/31/2021 22:32:12 Count of transaction data 4
+08/31/2021 22:32:12 Processing Account Number 8347100017856090
+08/31/2021 22:32:12Processing Transaction Number: 0
+08/31/2021 22:32:13 Started : UIM Login Sequence
+08/31/2021 22:32:13 Started : UIM process in NCE URL
+08/31/2021 22:32:15 Closing Restoe pop-up
+08/31/2021 22:32:45 Entering Username
+08/31/2021 22:32:46 Entering Password
+08/31/2021 22:32:59 UIM Login successful
+08/31/2021 22:32:59 Click on Parties
+08/31/2021 22:33:16 Adding Billing Account Number Field
+08/31/2021 22:33:34 Entering Billing Account Number :8347100017856090
+08/31/2021 22:33:41 Storing the Parties in a datatable
+08/31/2021 22:33:42 Loop through each party ID
+08/31/2021 22:33:42 Partie ID:22876433
+08/31/2021 22:33:42 Party Name :72546596_102614753
+08/31/2021 22:33:42 Click on Services
+08/31/2021 22:33:48 Enter Party name in party name field
+08/31/2021 22:33:55 Extracting the services into Datatable
+08/31/2021 22:33:56 Loop through each service ID
+08/31/2021 22:33:56 Click on Service ID : 22127622
+08/31/2021 22:33:56 Service is in Disconnected status, Bot will not perform any action  22127622
+08/31/2021 22:33:56 Logout from UIM 22127622
+08/31/2021 22:33:58 Started : SAT Sequence
+08/31/2021 22:33:58 SAT Login successful
+08/31/2021 22:33:58 Searching for BAN
+08/31/2021 22:34:05 Found Account number in Gen2 8347100017856090
+08/31/2021 22:34:22 Error: while processing the account numer 8347100017856090
+08/31/2021 22:34:33 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+08/31/2021 22:34:39 Count of transaction data 4
+08/31/2021 22:34:39 Processing Account Number 8347100017853972
+08/31/2021 22:34:39Processing Transaction Number: 1
+08/31/2021 22:34:42 Started : UIM Login Sequence
+08/31/2021 22:34:42 Started : UIM process in NCE URL
+08/31/2021 22:34:44 Closing Restoe pop-up

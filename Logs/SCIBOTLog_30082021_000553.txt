@@ -1,0 +1,31 @@
+﻿The SCI BOT execution is started                                                                                  08/30/2021 00:05:53
+Read the Config file and saved all the data in dictionary variable                                            08/30/2021 00:05:53
+08/30/2021 00:06:13 SAT Login started
+08/30/2021 00:06:21 Logged into SAT
+08/30/2021 00:06:30 Started : UIM Login Sequence
+08/30/2021 00:06:30 Started : UIM process in NCE URL
+08/30/2021 00:07:01 Entering Username
+08/30/2021 00:07:02 Entering Password
+08/30/2021 00:07:15 UIM Login successful
+08/30/2021 00:07:15 Click on Parties
+08/30/2021 00:07:32 Adding Billing Account Number Field
+08/30/2021 00:07:50 Entering Billing Account Number :8347100017854863
+08/30/2021 00:07:57 Storing the Parties in a datatable
+08/30/2021 00:07:58 No parties associated with the account number - 8347100017854863
+08/30/2021 00:07:58 Start the process for the next account number in transaction data
+08/30/2021 00:07:58 Logout from UIM 
+08/30/2021 00:08:03 Started : UIM Login Sequence
+08/30/2021 00:08:03 Started : UIM process in NCE URL
+08/30/2021 00:08:34 Entering Username
+08/30/2021 00:08:35 Entering Password
+08/30/2021 00:09:06 Partial Response, Error in Logging into UIM
+08/30/2021 00:09:09 Started : SAT Sequence
+08/30/2021 00:09:09 SAT Login successful
+08/30/2021 00:09:09 Searching for BAN
+08/30/2021 00:09:14 Found Account number in Gen2 8347100017853972
+08/30/2021 00:09:22 Started SAT process in Gen 2 for 8347100017853972
+08/30/2021 00:09:38 No TV Services associated with the Account Number -  8347100017853972
+08/30/2021 00:09:59 Error: Unale to find Sync&Provision Button for Internet Service
+08/30/2021 00:10:20 No Wifi services are associated with the Account Number - 8347100017853972
+08/30/2021 00:10:41 No Phone services are associated with the Account Number - 8347100017853972
+08/30/2021 00:10:41 BOT Execution completed for Gen2 for : 8347100017853972

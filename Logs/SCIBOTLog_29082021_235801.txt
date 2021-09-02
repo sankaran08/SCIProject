@@ -1,0 +1,28 @@
+﻿The SCI BOT execution is started                                                                                  08/29/2021 23:58:01
+Read the Config file and saved all the data in dictionary variable                                            08/29/2021 23:58:01
+08/29/2021 23:58:15 SAT Login started
+08/29/2021 23:58:36 Logged into SAT
+08/29/2021 23:58:44 Started : UIM Login Sequence
+08/29/2021 23:58:44 Started : UIM process in NCE URL
+08/29/2021 23:59:16 Entering Username
+08/29/2021 23:59:17 Entering Password
+08/29/2021 23:59:48 Partial Response, Error in Logging into UIM
+08/30/2021 00:00:32 SAT Login started
+08/30/2021 00:00:54 Logged into SAT
+08/30/2021 00:01:01 Started : UIM Login Sequence
+08/30/2021 00:01:01 Started : UIM process in NCE URL
+08/30/2021 00:01:33 Entering Username
+08/30/2021 00:01:34 Entering Password
+08/30/2021 00:01:46 UIM Login successful
+08/30/2021 00:01:46 Click on Parties
+08/30/2021 00:01:53 Adding Billing Account Number Field
+08/30/2021 00:02:12 Entering Billing Account Number :8347100017854863
+08/30/2021 00:02:18 Storing the Parties in a datatable
+08/30/2021 00:02:19 No parties associated with the account number - 8347100017854863
+08/30/2021 00:02:19 Start the process for the next account number in transaction data
+08/30/2021 00:02:19 Logout from UIM 
+08/30/2021 00:02:24 Started : UIM Login Sequence
+08/30/2021 00:02:24 Started : UIM process in NCE URL
+08/30/2021 00:02:55 Entering Username
+08/30/2021 00:02:56 Entering Password
+08/30/2021 00:03:27 Partial Response, Error in Logging into UIM

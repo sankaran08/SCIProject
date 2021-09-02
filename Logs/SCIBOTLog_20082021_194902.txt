@@ -1,0 +1,3 @@
+﻿The SCI BOT execution is started                                                                                  08/20/2021 19:49:05
+Read the Config file and saved all the data in dictionary variable                                            08/20/2021 19:49:05
+Audit Service API Request Sent                                                                                08/20/2021 19:49:14

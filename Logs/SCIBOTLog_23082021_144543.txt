@@ -1,0 +1,15 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 14:45:43
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 14:45:43
+08/23/2021 14:45:47 Entering Username to login UIM
+08/23/2021 14:46:14 Entering Password
+08/23/2021 14:46:28 Started : Login UIM Sequence
+08/23/2021 14:46:28 Click on Parties
+08/23/2021 14:47:02 Adding Billing Account Number Field
+08/23/2021 14:47:25 Entering Billing Account Number :8347100017855936
+08/23/2021 14:47:36 Storing the Parties in a datatable
+08/23/2021 14:47:37 No parties associated with the account number - 8347100017855936
+08/23/2021 14:47:37 Start the process for the next account number in transaction data
+08/23/2021 14:47:44 Started : Login UIM Sequence
+08/23/2021 14:47:44 Click on Parties
+08/23/2021 14:48:19 Entering Username to login UIM
+08/23/2021 14:48:26 Entering Password

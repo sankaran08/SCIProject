@@ -1,0 +1,48 @@
+﻿08/31/2021 17:59:54 The SCI BOT execution is started
+08/31/2021 17:59:54 Reading Transaction Data from Transaction Excel
+08/31/2021 17:59:54 Recorded all the Transaction data into a datatable
+08/31/2021 17:59:58 SAT Login started
+08/31/2021 18:00:06 Logged into SAT
+08/31/2021 18:00:11 Count of transaction data 3
+08/31/2021 18:00:11 Processing Account Number 8347100017856090
+08/31/2021 18:00:11Processing Transaction Number: 0
+08/31/2021 18:00:12 Started : UIM Login Sequence
+08/31/2021 18:00:12 Started : UIM process in NCE URL
+08/31/2021 18:00:13 Closing Restoe pop-up
+08/31/2021 18:00:43 Entering Username
+08/31/2021 18:00:44 Entering Password
+08/31/2021 18:01:21 Started : UIM process in NCE URL
+08/31/2021 18:01:21 Closing Restoe pop-up
+08/31/2021 18:01:51 Entering Username
+08/31/2021 18:01:53 Entering Password
+08/31/2021 18:02:00 UIM Login successful
+08/31/2021 18:02:00 Click on Parties
+08/31/2021 18:02:14 Adding Billing Account Number Field
+08/31/2021 18:02:32 Entering Billing Account Number :8347100017856090
+08/31/2021 18:02:38 Storing the Parties in a datatable
+08/31/2021 18:02:39 Loop through each party ID
+08/31/2021 18:02:39 Partie ID:22876433
+08/31/2021 18:02:39 Party Name :72546596_102614753
+08/31/2021 18:02:39 Click on Services
+08/31/2021 18:02:45 Enter Party name in party name field
+08/31/2021 18:02:52 Extracting the services into Datatable
+08/31/2021 18:02:53 Loop through each service ID
+08/31/2021 18:02:53 Click on Service ID : 22127622
+08/31/2021 18:02:53 Service is in Pending Disconnect status, Bot will not perform any action  22127622
+08/31/2021 18:02:53 Logout from UIM 22127622
+08/31/2021 18:02:55 Started : SAT Sequence
+08/31/2021 18:02:55 SAT Login successful
+08/31/2021 18:02:55 Searching for BAN
+08/31/2021 18:03:03 Found Account number in Gen2 8347100017856090
+08/31/2021 18:03:19 Error: while processing the account numer 8347100017856090
+08/31/2021 18:03:29 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+08/31/2021 18:03:31 Count of transaction data 3
+08/31/2021 18:03:31 Processing Account Number 8347100017853972
+08/31/2021 18:03:31Processing Transaction Number: 1
+08/31/2021 18:03:32 Started : UIM Login Sequence
+08/31/2021 18:03:32 Started : UIM process in NCE URL
+08/31/2021 18:03:32 Closing Restoe pop-up
+08/31/2021 18:04:03 Entering Username
+08/31/2021 18:04:04 Entering Password
+08/31/2021 18:04:15 UIM Login successful
+08/31/2021 18:04:15 Click on Parties

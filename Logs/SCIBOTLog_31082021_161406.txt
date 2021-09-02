@@ -1,0 +1,34 @@
+﻿08/31/2021 16:14:07 The SCI BOT execution is started
+08/31/2021 16:14:07 Reading Transaction Data from Transaction Excel
+08/31/2021 16:14:07 Recorded all the Transaction data into a datatable
+08/31/2021 16:14:11 SAT Login started
+08/31/2021 16:14:56 Entering SAT Username
+08/31/2021 16:14:57 Entering SAT Password
+08/31/2021 16:15:13 Count of transaction data 8
+08/31/2021 16:15:14 Processing Account Number 8347100017856090
+08/31/2021 16:15:15 Started : UIM Login Sequence
+08/31/2021 16:15:15 Started : UIM process in NCE URL
+08/31/2021 16:15:16 Closing Restoe pop-up
+08/31/2021 16:15:47 Entering Username
+08/31/2021 16:15:48 Entering Password
+08/31/2021 16:15:55 UIM Login successful
+08/31/2021 16:15:55 Click on Parties
+08/31/2021 16:16:10 Adding Billing Account Number Field
+08/31/2021 16:16:29 Entering Billing Account Number :8347100017856090
+08/31/2021 16:16:35 Storing the Parties in a datatable
+08/31/2021 16:16:37 Loop through each party ID
+08/31/2021 16:16:37 Partie ID:22876433
+08/31/2021 16:16:37 Party Name :72546596_102614753
+08/31/2021 16:16:37 Click on Services
+08/31/2021 16:16:43 Enter Party name in party name field
+08/31/2021 16:16:51 Extracting the services into Datatable
+08/31/2021 16:16:52 Loop through each service ID
+08/31/2021 16:16:52 Click on Service ID : 22127622
+08/31/2021 16:16:53 Service is in Pending Disconnect status, Bot will not perform any action  22127622
+08/31/2021 16:16:53 Logout from UIM 22127622
+08/31/2021 16:16:55 Started : SAT Sequence
+08/31/2021 16:16:55 SAT Login successful
+08/31/2021 16:16:55 Searching for BAN
+08/31/2021 16:17:01 Found Account number in Gen2 8347100017856090
+08/31/2021 16:17:17 Error: while processing the account numer 8347100017856090
+08/31/2021 16:17:27 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090

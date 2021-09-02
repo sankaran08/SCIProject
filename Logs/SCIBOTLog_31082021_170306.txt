@@ -1,0 +1,31 @@
+﻿08/31/2021 17:03:06 The SCI BOT execution is started
+08/31/2021 17:03:06 Reading Transaction Data from Transaction Excel
+08/31/2021 17:03:06 Recorded all the Transaction data into a datatable
+08/31/2021 17:03:09 SAT Login started
+08/31/2021 17:03:16 Logged into SAT
+08/31/2021 17:03:21 Count of transaction data 8
+08/31/2021 17:03:21 Processing Account Number 8347100017856090
+08/31/2021 17:03:21Processing Transaction Number: 0
+08/31/2021 17:03:23 Started : UIM Login Sequence
+08/31/2021 17:03:23 Started : UIM process in NCE URL
+08/31/2021 17:03:24 Closing Restoe pop-up
+08/31/2021 17:03:54 Entering Username
+08/31/2021 17:03:55 Entering Password
+08/31/2021 17:04:05 UIM Login successful
+08/31/2021 17:04:05 Click on Parties
+08/31/2021 17:04:20 Adding Billing Account Number Field
+08/31/2021 17:04:38 Entering Billing Account Number :8347100017856090
+08/31/2021 17:04:44 Storing the Parties in a datatable
+08/31/2021 17:04:45 Loop through each party ID
+08/31/2021 17:04:45 Partie ID:22876433
+08/31/2021 17:04:45 Party Name :72546596_102614753
+08/31/2021 17:04:45 Click on Services
+08/31/2021 17:04:51 Enter Party name in party name field
+08/31/2021 17:04:58 Extracting the services into Datatable
+08/31/2021 17:04:59 Loop through each service ID
+08/31/2021 17:04:59 Click on Service ID : 22127622
+08/31/2021 17:04:59 Service is in Pending Disconnect status, Bot will not perform any action  22127622
+08/31/2021 17:04:59 Logout from UIM 22127622
+08/31/2021 17:05:01 Started : SAT Sequence
+08/31/2021 17:05:01 SAT Login successful
+08/31/2021 17:05:01 Searching for BAN

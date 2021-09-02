@@ -1,0 +1,52 @@
+﻿The SCI BOT execution is started                                                                                  08/24/2021 21:33:39
+Read the Config file and saved all the data in dictionary variable                                            08/24/2021 21:33:39
+08/24/2021 21:33:41 Started : UIM Sequence - closing if browser is opened
+08/24/2021 21:34:11 Started : UIM Login Sequence
+08/24/2021 21:34:11 Started : UIM Login Sequence
+08/24/2021 21:34:17 Started : UIM process in NCE URL
+08/24/2021 21:34:20 Entering Username
+08/24/2021 21:34:33 Entering Password
+08/24/2021 21:34:45 Click on Parties
+08/24/2021 21:35:07 Adding Billing Account Number Field
+08/24/2021 21:35:30 Entering Billing Account Number :8347100017855936
+08/24/2021 21:35:41 Storing the Parties in a datatable
+08/24/2021 21:35:42 No parties associated with the account number - 8347100017855936
+08/24/2021 21:35:42 Start the process for the next account number in transaction data
+08/24/2021 21:35:47 Started : UIM Sequence - closing if browser is opened
+08/24/2021 21:35:47 Started : UIM Login Sequence
+08/24/2021 21:35:47 Started : UIM Login Sequence
+08/24/2021 21:35:52 Started : UIM process in NCE URL
+08/24/2021 21:35:55 Entering Username
+08/24/2021 21:36:15 Entering Password
+08/24/2021 21:36:26 Click on Parties
+08/24/2021 21:36:49 Adding Billing Account Number Field
+08/24/2021 21:37:11 Entering Billing Account Number :8347100017855852
+08/24/2021 21:37:23 Storing the Parties in a datatable
+08/24/2021 21:37:24 Loop through each party ID
+08/24/2021 21:37:24 Partie ID:22876435
+08/24/2021 21:37:24 Party Name :66219779_68708170
+08/24/2021 21:37:24 Click on Services
+08/24/2021 21:37:34 Enter Party name in party name field
+08/24/2021 21:37:46 Extracting the services into Datatable
+08/24/2021 21:37:48 Loop through each service ID
+08/24/2021 21:37:48 Click on Service ID : 22127626
+08/24/2021 21:37:49 Started : UIM Sequence - closing if browser is opened
+08/24/2021 21:37:49 Started : UIM Login Sequence
+08/24/2021 21:37:49 Started : UIM Login Sequence
+08/24/2021 21:37:56 Started : UIM process in NCE URL
+08/24/2021 21:37:59 Entering Username
+08/24/2021 21:38:06 Entering Password
+08/24/2021 21:38:24 Click on Parties
+08/24/2021 21:38:45 Adding Billing Account Number Field
+08/24/2021 21:39:08 Entering Billing Account Number :8347100017855480
+08/24/2021 21:39:19 Storing the Parties in a datatable
+08/24/2021 21:39:21 No parties associated with the account number - 8347100017855480
+08/24/2021 21:39:21 Start the process for the next account number in transaction data
+08/24/2021 21:39:23 Started : UIM Sequence - closing if browser is opened
+08/24/2021 21:39:23 Started : UIM Login Sequence
+08/24/2021 21:39:23 Started : UIM Login Sequence
+08/24/2021 21:40:59 Started : UIM Sequence - closing if browser is opened
+08/24/2021 21:41:29 Started : UIM Login Sequence
+08/24/2021 21:41:29 Started : UIM Login Sequence
+08/24/2021 21:41:35 Started : UIM process in NCE URL
+08/24/2021 21:41:38 Entering Username

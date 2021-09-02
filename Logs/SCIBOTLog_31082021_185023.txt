@@ -1,0 +1,172 @@
+﻿08/31/2021 18:50:23 The SCI BOT execution is started
+08/31/2021 18:50:23 Reading Transaction Data from Transaction Excel
+08/31/2021 18:50:23 Recorded all the Transaction data into a datatable
+08/31/2021 18:50:25 SAT Login started
+08/31/2021 18:51:11 Entering SAT Username
+08/31/2021 18:51:12 Entering SAT Password
+08/31/2021 18:51:28 Count of transaction data 4
+08/31/2021 18:51:28 Processing Account Number 8347100017856090
+08/31/2021 18:51:28Processing Transaction Number: 0
+08/31/2021 18:51:29 Started : UIM Login Sequence
+08/31/2021 18:51:59 Started : UIM process in NCE URL
+08/31/2021 18:52:00 Closing Restoe pop-up
+08/31/2021 18:52:30 Entering Username
+08/31/2021 18:52:31 Entering Password
+08/31/2021 18:53:07 Started : UIM process in NCE URL
+08/31/2021 18:53:08 Closing Restoe pop-up
+08/31/2021 18:53:38 Entering Username
+08/31/2021 18:53:39 Entering Password
+08/31/2021 18:53:47 UIM Login successful
+08/31/2021 18:53:47 Click on Parties
+08/31/2021 18:54:03 Adding Billing Account Number Field
+08/31/2021 18:54:20 Entering Billing Account Number :8347100017856090
+08/31/2021 18:54:27 Storing the Parties in a datatable
+08/31/2021 18:54:28 Loop through each party ID
+08/31/2021 18:54:28 Partie ID:22876433
+08/31/2021 18:54:28 Party Name :72546596_102614753
+08/31/2021 18:54:28 Click on Services
+08/31/2021 18:54:34 Enter Party name in party name field
+08/31/2021 18:54:41 Extracting the services into Datatable
+08/31/2021 18:54:42 Loop through each service ID
+08/31/2021 18:54:42 Click on Service ID : 22127622
+08/31/2021 18:54:42 Status of 22127622 is In service
+08/31/2021 18:54:42 Click on Service ID : 22127622
+08/31/2021 18:54:53 Click on Action
+08/31/2021 18:54:58 Click on Disconnect
+08/31/2021 18:55:05 Click on Complete
+08/31/2021 18:55:07 Disconnection process is completed for 22127622
+08/31/2021 18:55:13 Logout from UIM 22127622
+08/31/2021 18:55:14 Started : SAT Sequence
+08/31/2021 18:55:15 SAT Login successful
+08/31/2021 18:55:15 Searching for BAN
+08/31/2021 18:55:22 Found Account number in Gen2 8347100017856090
+08/31/2021 18:55:38 Error: while processing the account numer 8347100017856090
+08/31/2021 18:55:48 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+08/31/2021 18:55:50 Count of transaction data 4
+08/31/2021 18:55:50 Processing Account Number 8347100017853972
+08/31/2021 18:55:50Processing Transaction Number: 1
+08/31/2021 18:55:50 Started : UIM Login Sequence
+08/31/2021 18:56:20 Started : UIM process in NCE URL
+08/31/2021 18:56:21 Closing Restoe pop-up
+08/31/2021 18:56:51 Entering Username
+08/31/2021 18:56:52 Entering Password
+08/31/2021 18:57:01 UIM Login successful
+08/31/2021 18:57:01 Click on Parties
+08/31/2021 18:57:12 Adding Billing Account Number Field
+08/31/2021 18:57:30 Entering Billing Account Number :8347100017853972
+08/31/2021 18:57:36 Storing the Parties in a datatable
+08/31/2021 18:57:37 Loop through each party ID
+08/31/2021 18:57:37 Partie ID:22876434
+08/31/2021 18:57:37 Party Name :72532278_102612746
+08/31/2021 18:57:37 Click on Services
+08/31/2021 18:57:43 Enter Party name in party name field
+08/31/2021 18:57:50 Extracting the services into Datatable
+08/31/2021 18:57:51 Loop through each service ID
+08/31/2021 18:57:51 Click on Service ID : 22127623
+08/31/2021 18:57:51 Status of 22127623 is In service
+08/31/2021 18:57:51 Click on Service ID : 22127623
+08/31/2021 18:58:02 Click on Action
+08/31/2021 18:58:08 Click on Disconnect
+08/31/2021 18:58:15 Click on Complete
+08/31/2021 18:58:16 Disconnection process is completed for 22127623
+08/31/2021 18:58:22 Click on Service ID : 22127624
+08/31/2021 18:58:22 Status of 22127624 is In service
+08/31/2021 18:58:22 Click on Service ID : 22127624
+08/31/2021 18:58:33 Click on Action
+08/31/2021 18:58:39 Click on Disconnect
+08/31/2021 18:58:45 Click on Complete
+08/31/2021 18:58:47 Disconnection process is completed for 22127624
+08/31/2021 18:58:53 Logout from UIM 22127624
+08/31/2021 18:58:55 Started : SAT Sequence
+08/31/2021 18:58:55 SAT Login successful
+08/31/2021 18:58:55 Searching for BAN
+08/31/2021 18:59:03 Found Account number in Gen2 8347100017853972
+08/31/2021 18:59:07 Started SAT process in Gen 2 for 8347100017853972
+08/31/2021 18:59:28 No TV Services associated with the Account Number -  8347100017853972
+08/31/2021 18:59:49 Error: Unale to find Sync&Provision Button for Internet Service
+08/31/2021 19:00:10 No Wifi services are associated with the Account Number - 8347100017853972
+08/31/2021 19:00:31 No Phone services are associated with the Account Number - 8347100017853972
+08/31/2021 19:00:31 BOT Execution completed for Gen2 for : 8347100017853972
+08/31/2021 19:00:32 Count of transaction data 4
+08/31/2021 19:00:32 Processing Account Number 655239001
+08/31/2021 19:00:32Processing Transaction Number: 2
+08/31/2021 19:00:32 Started : UIM Login Sequence
+08/31/2021 19:01:02 Started : UIM process in NCW URL
+08/31/2021 19:01:03 Closing Restoe pop-up
+08/31/2021 19:01:33 Entering Username
+08/31/2021 19:01:34 Entering Password
+08/31/2021 19:01:42 UIM Login successful
+08/31/2021 19:01:42 Click on Parties
+08/31/2021 19:01:54 Adding Billing Account Number Field
+08/31/2021 19:02:12 Entering Billing Account Number :655239001
+08/31/2021 19:02:18 Storing the Parties in a datatable
+08/31/2021 19:02:19 No parties associated with the account number - 655239001
+08/31/2021 19:02:19 Start the process for the next account number in transaction data
+08/31/2021 19:02:19 Logout from UIM 
+08/31/2021 19:02:21 Count of transaction data 4
+08/31/2021 19:02:21 Processing Account Number 8347100017855852
+08/31/2021 19:02:21Processing Transaction Number: 3
+08/31/2021 19:02:21 Started : UIM Login Sequence
+08/31/2021 19:02:51 Started : UIM process in NCE URL
+08/31/2021 19:02:52 Closing Restoe pop-up
+08/31/2021 19:03:22 Entering Username
+08/31/2021 19:03:23 Entering Password
+08/31/2021 19:03:59 Started : UIM process in NCE URL
+08/31/2021 19:04:01 Closing Restoe pop-up
+08/31/2021 19:04:31 Entering Username
+08/31/2021 19:04:32 Entering Password
+08/31/2021 19:05:07 SAT Login started
+08/31/2021 19:05:19 Logged into SAT
+08/31/2021 19:05:24 Count of transaction data 4
+08/31/2021 19:05:24 Processing Account Number 8347100017855852
+08/31/2021 19:05:24Processing Transaction Number: 3
+08/31/2021 19:05:25 Started : UIM Login Sequence
+08/31/2021 19:05:55 Started : UIM process in NCE URL
+08/31/2021 19:05:56 Closing Restoe pop-up
+08/31/2021 19:06:26 Entering Username
+08/31/2021 19:06:27 Entering Password
+08/31/2021 19:07:03 Started : UIM process in NCE URL
+08/31/2021 19:07:04 Closing Restoe pop-up
+08/31/2021 19:07:34 Entering Username
+08/31/2021 19:07:35 Entering Password
+08/31/2021 19:08:09 SAT Login started
+08/31/2021 19:08:16 Logged into SAT
+08/31/2021 19:08:21 Count of transaction data 4
+08/31/2021 19:08:21 Processing Account Number 8347100017855852
+08/31/2021 19:08:21Processing Transaction Number: 3
+08/31/2021 19:08:22 Started : UIM Login Sequence
+08/31/2021 19:08:52 Started : UIM process in NCE URL
+08/31/2021 19:08:52 Closing Restoe pop-up
+08/31/2021 19:09:23 Entering Username
+08/31/2021 19:09:24 Entering Password
+08/31/2021 19:10:00 Started : UIM process in NCE URL
+08/31/2021 19:10:01 Closing Restoe pop-up
+08/31/2021 19:10:31 Entering Username
+08/31/2021 19:10:32 Entering Password
+08/31/2021 19:10:39 UIM Login successful
+08/31/2021 19:10:39 Click on Parties
+08/31/2021 19:10:49 Adding Billing Account Number Field
+08/31/2021 19:11:07 Entering Billing Account Number :8347100017855852
+08/31/2021 19:11:14 Storing the Parties in a datatable
+08/31/2021 19:11:15 Loop through each party ID
+08/31/2021 19:11:15 Partie ID:22876435
+08/31/2021 19:11:15 Party Name :66219779_68708170
+08/31/2021 19:11:15 Click on Services
+08/31/2021 19:11:20 Enter Party name in party name field
+08/31/2021 19:11:27 Extracting the services into Datatable
+08/31/2021 19:11:28 Loop through each service ID
+08/31/2021 19:11:28 Click on Service ID : 22127626
+08/31/2021 19:11:28 Status of 22127626 is In service
+08/31/2021 19:11:28 Click on Service ID : 22127626
+08/31/2021 19:11:39 Click on Action
+08/31/2021 19:11:45 Click on Disconnect
+08/31/2021 19:11:52 Click on Complete
+08/31/2021 19:11:54 Disconnection process is completed for 22127626
+08/31/2021 19:11:59 Logout from UIM 22127626
+08/31/2021 19:12:01 Started : SAT Sequence
+08/31/2021 19:12:01 SAT Login successful
+08/31/2021 19:12:01 Searching for BAN
+08/31/2021 19:12:10 Found Account number in Gen2 8347100017855852
+08/31/2021 19:12:25 Error: while processing the account numer 8347100017855852
+08/31/2021 19:12:36 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017855852
+08/31/2021 19:12:37 Process finished due to no more transaction data

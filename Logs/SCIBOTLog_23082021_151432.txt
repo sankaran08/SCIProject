@@ -1,0 +1,136 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 15:14:32
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 15:14:32
+08/23/2021 15:14:36 Entering Username to login UIM
+08/23/2021 15:14:47 Entering Password
+08/23/2021 15:15:01 Started : Login UIM Sequence
+08/23/2021 15:15:01 Click on Parties
+08/23/2021 15:15:35 Adding Billing Account Number Field
+08/23/2021 15:15:58 Entering Billing Account Number :8347100017855936
+08/23/2021 15:16:09 Storing the Parties in a datatable
+08/23/2021 15:16:10 No parties associated with the account number - 8347100017855936
+08/23/2021 15:16:10 Start the process for the next account number in transaction data
+08/23/2021 15:16:18 Started : Login UIM Sequence
+08/23/2021 15:16:18 Click on Parties
+08/23/2021 15:16:41 Adding Billing Account Number Field
+08/23/2021 15:17:04 Entering Billing Account Number :8347100017855852
+08/23/2021 15:17:15 Storing the Parties in a datatable
+08/23/2021 15:17:16 Loop through each party ID
+08/23/2021 15:17:16 Partie ID:22876435
+08/23/2021 15:17:16 Party Name :66219779_68708170
+08/23/2021 15:17:16 Click on Services
+08/23/2021 15:17:27 Enter Party name in party name field
+08/23/2021 15:17:39 Extracting the services into Datatable
+08/23/2021 15:17:40 Loop through each service ID
+08/23/2021 15:17:40 Click on Service ID : 22127626
+08/23/2021 15:17:55 Started : Login UIM Sequence
+08/23/2021 15:17:55 Click on Parties
+08/23/2021 15:18:25 Adding Billing Account Number Field
+08/23/2021 15:18:48 Entering Billing Account Number :8347100017855480
+08/23/2021 15:18:59 Storing the Parties in a datatable
+08/23/2021 15:19:00 No parties associated with the account number - 8347100017855480
+08/23/2021 15:19:00 Start the process for the next account number in transaction data
+08/23/2021 15:19:06 Started : Login UIM Sequence
+08/23/2021 15:19:06 Click on Parties
+08/23/2021 15:19:29 Adding Billing Account Number Field
+08/23/2021 15:19:52 Entering Billing Account Number :8347100017856223 
+08/23/2021 15:20:03 Storing the Parties in a datatable
+08/23/2021 15:20:04 No parties associated with the account number - 8347100017856223 
+08/23/2021 15:20:04 Start the process for the next account number in transaction data
+08/23/2021 15:20:13 Started : Login UIM Sequence
+08/23/2021 15:20:13 Click on Parties
+08/23/2021 15:20:45 Adding Billing Account Number Field
+08/23/2021 15:21:07 Entering Billing Account Number :8347100017856090
+08/23/2021 15:21:19 Storing the Parties in a datatable
+08/23/2021 15:21:20 Loop through each party ID
+08/23/2021 15:21:20 Partie ID:22876433
+08/23/2021 15:21:20 Party Name :72546596_102614753
+08/23/2021 15:21:20 Click on Services
+08/23/2021 15:21:31 Enter Party name in party name field
+08/23/2021 15:21:42 Extracting the services into Datatable
+08/23/2021 15:21:44 Loop through each service ID
+08/23/2021 15:21:44 Click on Service ID : 22127622
+08/23/2021 15:21:44 Status of 22127622 is In service
+08/23/2021 15:21:59 Click on Action
+08/23/2021 15:22:05 Click on Disconnect
+08/23/2021 15:22:42 Click on Complete
+08/23/2021 15:22:43 Disconnection process is completed for 22127622
+08/23/2021 15:23:01 Started : Login UIM Sequence
+08/23/2021 15:23:01 Click on Parties
+08/23/2021 15:23:22 Adding Billing Account Number Field
+08/23/2021 15:23:45 Entering Billing Account Number :655239001
+08/23/2021 15:23:56 Storing the Parties in a datatable
+08/23/2021 15:23:57 No parties associated with the account number - 655239001
+08/23/2021 15:23:57 Start the process for the next account number in transaction data
+08/23/2021 15:24:24 Started : Login UIM Sequence
+08/23/2021 15:24:24 Click on Parties
+08/23/2021 15:25:08 Adding Billing Account Number Field
+08/23/2021 15:25:31 Entering Billing Account Number :655238901 
+08/23/2021 15:25:42 Storing the Parties in a datatable
+08/23/2021 15:25:43 No parties associated with the account number - 655238901 
+08/23/2021 15:25:43 Start the process for the next account number in transaction data
+08/23/2021 15:25:48 Started : Login UIM Sequence
+08/23/2021 15:25:48 Click on Parties
+08/23/2021 15:26:09 Adding Billing Account Number Field
+08/23/2021 15:26:32 Entering Billing Account Number :655237701
+08/23/2021 15:26:43 Storing the Parties in a datatable
+08/23/2021 15:26:44 No parties associated with the account number - 655237701
+08/23/2021 15:26:44 Start the process for the next account number in transaction data
+08/23/2021 15:26:49 Started : Login UIM Sequence
+08/23/2021 15:26:49 Click on Parties
+08/23/2021 15:27:12 Adding Billing Account Number Field
+08/23/2021 15:27:35 Entering Billing Account Number :8347100017854863 
+08/23/2021 15:27:46 Storing the Parties in a datatable
+08/23/2021 15:27:47 No parties associated with the account number - 8347100017854863 
+08/23/2021 15:27:47 Start the process for the next account number in transaction data
+08/23/2021 15:27:55 Started : Login UIM Sequence
+08/23/2021 15:27:55 Click on Parties
+08/23/2021 15:28:24 Adding Billing Account Number Field
+08/23/2021 15:28:46 Entering Billing Account Number :8347100017853972
+08/23/2021 15:28:58 Storing the Parties in a datatable
+08/23/2021 15:28:59 Loop through each party ID
+08/23/2021 15:28:59 Partie ID:22876434
+08/23/2021 15:28:59 Party Name :72532278_102612746
+08/23/2021 15:28:59 Click on Services
+08/23/2021 15:29:09 Enter Party name in party name field
+08/23/2021 15:29:21 Extracting the services into Datatable
+08/23/2021 15:29:23 Loop through each service ID
+08/23/2021 15:29:23 Click on Service ID : 22127623
+08/23/2021 15:29:23 Status of 22127623 is In service
+08/23/2021 15:29:38 Click on Action
+08/23/2021 15:29:44 Click on Disconnect
+08/23/2021 15:29:53 Click on Complete
+08/23/2021 15:29:54 Disconnection process is completed for 22127623
+08/23/2021 15:30:04 Click on Service ID : 22127624
+08/23/2021 15:30:04 Status of 22127624 is In service
+08/23/2021 15:30:20 Click on Action
+08/23/2021 15:30:26 Click on Disconnect
+08/23/2021 15:31:03 Click on Complete
+08/23/2021 15:31:04 Disconnection process is completed for 22127624
+08/23/2021 15:31:27 Started : Login UIM Sequence
+08/23/2021 15:31:27 Click on Parties
+08/23/2021 15:32:00 Adding Billing Account Number Field
+08/23/2021 15:32:23 Entering Billing Account Number :8347100017854657
+08/23/2021 15:32:34 Storing the Parties in a datatable
+08/23/2021 15:32:35 No parties associated with the account number - 8347100017854657
+08/23/2021 15:32:35 Start the process for the next account number in transaction data
+08/23/2021 15:32:39 Started : Login UIM Sequence
+08/23/2021 15:32:39 Click on Parties
+08/23/2021 15:33:00 Adding Billing Account Number Field
+08/23/2021 15:33:23 Entering Billing Account Number :8347100017854566
+08/23/2021 15:33:34 Storing the Parties in a datatable
+08/23/2021 15:33:36 No parties associated with the account number - 8347100017854566
+08/23/2021 15:33:36 Start the process for the next account number in transaction data
+08/23/2021 15:33:44 Started : Login UIM Sequence
+08/23/2021 15:33:44 Click on Parties
+08/23/2021 15:34:34 Adding Billing Account Number Field
+08/23/2021 15:34:56 Entering Billing Account Number :8347100017854152
+08/23/2021 15:35:07 Storing the Parties in a datatable
+08/23/2021 15:35:09 No parties associated with the account number - 8347100017854152
+08/23/2021 15:35:09 Start the process for the next account number in transaction data
+08/23/2021 15:35:14 Started : Login UIM Sequence
+08/23/2021 15:35:14 Click on Parties
+08/23/2021 15:35:36 Adding Billing Account Number Field
+08/23/2021 15:35:59 Entering Billing Account Number :654991301
+08/23/2021 15:36:10 Storing the Parties in a datatable
+08/23/2021 15:36:11 No parties associated with the account number - 654991301
+08/23/2021 15:36:11 Start the process for the next account number in transaction data

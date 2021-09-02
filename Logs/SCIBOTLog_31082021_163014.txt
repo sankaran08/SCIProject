@@ -1,0 +1,66 @@
+﻿08/31/2021 16:30:14 The SCI BOT execution is started
+08/31/2021 16:30:14 Reading Transaction Data from Transaction Excel
+08/31/2021 16:30:14 Recorded all the Transaction data into a datatable
+08/31/2021 16:30:17 SAT Login started
+08/31/2021 16:30:28 Logged into SAT
+08/31/2021 16:30:33 Count of transaction data 8
+08/31/2021 16:30:33 Processing Account Number 8347100017856090
+08/31/2021 16:30:33Processing Transaction Number: 0
+08/31/2021 16:30:34 Started : UIM Login Sequence
+08/31/2021 16:30:34 Started : UIM process in NCE URL
+08/31/2021 16:30:35 Closing Restoe pop-up
+08/31/2021 16:31:05 Entering Username
+08/31/2021 16:31:06 Entering Password
+08/31/2021 16:31:37 Partial Response, Error in Logging into UIM
+08/31/2021 16:31:47 SAT Login started
+08/31/2021 16:31:54 Logged into SAT
+08/31/2021 16:31:59 Count of transaction data 8
+08/31/2021 16:31:59 Processing Account Number 8347100017856090
+08/31/2021 16:31:59Processing Transaction Number: 0
+08/31/2021 16:32:00 Started : UIM Login Sequence
+08/31/2021 16:32:00 Started : UIM process in NCE URL
+08/31/2021 16:32:01 Closing Restoe pop-up
+08/31/2021 16:32:31 Entering Username
+08/31/2021 16:32:32 Entering Password
+08/31/2021 16:33:03 Partial Response, Error in Logging into UIM
+08/31/2021 16:33:09 SAT Login started
+08/31/2021 16:33:15 Logged into SAT
+08/31/2021 16:33:20 Count of transaction data 8
+08/31/2021 16:33:20 Processing Account Number 8347100017856090
+08/31/2021 16:33:20Processing Transaction Number: 0
+08/31/2021 16:33:21 Started : UIM Login Sequence
+08/31/2021 16:33:21 Started : UIM process in NCE URL
+08/31/2021 16:33:22 Closing Restoe pop-up
+08/31/2021 16:33:52 Entering Username
+08/31/2021 16:33:53 Entering Password
+08/31/2021 16:34:24 Partial Response, Error in Logging into UIM
+08/31/2021 16:34:47 SAT Login started
+08/31/2021 16:35:00 Logged into SAT
+08/31/2021 16:35:05 Count of transaction data 8
+08/31/2021 16:35:05 Processing Account Number 8347100017856090
+08/31/2021 16:35:05Processing Transaction Number: 0
+08/31/2021 16:35:06 Started : UIM Login Sequence
+08/31/2021 16:35:06 Started : UIM process in NCE URL
+08/31/2021 16:35:06 Closing Restoe pop-up
+08/31/2021 16:35:37 Entering Username
+08/31/2021 16:35:38 Entering Password
+08/31/2021 16:36:09 Partial Response, Error in Logging into UIM
+08/31/2021 16:36:16 SAT Login started
+08/31/2021 16:36:27 Logged into SAT
+08/31/2021 16:36:32 Count of transaction data 8
+08/31/2021 16:36:32 Processing Account Number 655239001
+08/31/2021 16:36:32Processing Transaction Number: 1
+08/31/2021 16:36:33 Started : UIM Login Sequence
+08/31/2021 16:36:33 Started : UIM process in NCW URL
+08/31/2021 16:36:34 Closing Restoe pop-up
+08/31/2021 16:37:04 Entering Username
+08/31/2021 16:37:05 Entering Password
+08/31/2021 16:37:36 Partial Response, Error in Logging into UIM
+08/31/2021 16:37:44 SAT Login started
+08/31/2021 16:37:52 Logged into SAT
+08/31/2021 16:37:57 Count of transaction data 8
+08/31/2021 16:37:57 Processing Account Number 655239001
+08/31/2021 16:37:57Processing Transaction Number: 1
+08/31/2021 16:37:58 Started : UIM Login Sequence
+08/31/2021 16:37:58 Started : UIM process in NCW URL
+08/31/2021 16:37:59 Closing Restoe pop-up

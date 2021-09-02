@@ -1,0 +1,228 @@
+﻿09/01/2021 00:32:10 The SCI BOT execution is started
+09/01/2021 00:32:10 Reading Transaction Data from Transaction Excel
+09/01/2021 00:32:10 Recorded all the Transaction data into a datatable
+09/01/2021 00:32:32 SAT Login started
+09/01/2021 00:32:56 Logged into SAT
+09/01/2021 00:33:02 Count of transaction data 10
+09/01/2021 00:33:02 Processing Account Number 8347100017856090
+09/01/2021 00:33:02Processing Transaction Number: 0
+09/01/2021 00:33:06 Started : UIM Login Sequence
+09/01/2021 00:33:06 Started : UIM process in NCE URL
+09/01/2021 00:33:07 Closing Restore pop-up
+09/01/2021 00:33:17 Entering Username
+09/01/2021 00:33:18 Entering Password
+09/01/2021 00:33:42 UIM Login successful
+09/01/2021 00:33:42 Click on Parties
+09/01/2021 00:34:06 Adding Billing Account Number Field
+09/01/2021 00:34:24 Entering Billing Account Number :8347100017856090
+09/01/2021 00:34:31 Storing the Parties in a datatable
+09/01/2021 00:34:32 Loop through each party ID
+09/01/2021 00:34:32 Partie ID:22876433
+09/01/2021 00:34:32 Party Name :72546596_102614753
+09/01/2021 00:34:32 Click on Services
+09/01/2021 00:34:38 Enter Party name in party name field
+09/01/2021 00:34:45 Extracting the services into Datatable
+09/01/2021 00:34:46 Loop through each service ID
+09/01/2021 00:34:46 Click on Service ID : 22127622
+09/01/2021 00:34:46 Service is in Disconnected status, Bot will not perform any action  22127622
+09/01/2021 00:34:46 Logout from UIM 22127622
+09/01/2021 00:34:50 Started : SAT Sequence
+09/01/2021 00:34:50 SAT Login successful
+09/01/2021 00:34:50 Searching for BAN
+09/01/2021 00:34:55 Found Account number in Gen2 8347100017856090
+09/01/2021 00:35:10 Error: while processing the account numer 8347100017856090
+09/01/2021 00:35:21 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+09/01/2021 00:35:24 Count of transaction data 10
+09/01/2021 00:35:24 Processing Account Number 8347100017853972
+09/01/2021 00:35:24Processing Transaction Number: 1
+09/01/2021 00:35:26 Started : UIM Login Sequence
+09/01/2021 00:35:26 Started : UIM process in NCE URL
+09/01/2021 00:35:28 Closing Restore pop-up
+09/01/2021 00:35:38 Entering Username
+09/01/2021 00:35:39 Entering Password
+09/01/2021 00:36:21 Started : UIM process in NCE URL
+09/01/2021 00:36:22 Closing Restore pop-up
+09/01/2021 00:36:36 Entering Username
+09/01/2021 00:36:37 Entering Password
+09/01/2021 00:36:56 UIM Login successful
+09/01/2021 00:36:56 Click on Parties
+09/01/2021 00:37:09 Adding Billing Account Number Field
+09/01/2021 00:37:27 Entering Billing Account Number :8347100017853972
+09/01/2021 00:37:34 Storing the Parties in a datatable
+09/01/2021 00:37:35 Loop through each party ID
+09/01/2021 00:37:35 Partie ID:22876434
+09/01/2021 00:37:35 Party Name :72532278_102612746
+09/01/2021 00:37:35 Click on Services
+09/01/2021 00:37:40 Enter Party name in party name field
+09/01/2021 00:37:48 Extracting the services into Datatable
+09/01/2021 00:37:49 Loop through each service ID
+09/01/2021 00:37:49 Click on Service ID : 22127623
+09/01/2021 00:37:49 Service is in Disconnected status, Bot will not perform any action  22127623
+09/01/2021 00:37:49 Click on Service ID : 22127624
+09/01/2021 00:37:49 Service is in Disconnected status, Bot will not perform any action  22127624
+09/01/2021 00:37:49 Logout from UIM 22127624
+09/01/2021 00:37:52 Started : SAT Sequence
+09/01/2021 00:37:52 SAT Login successful
+09/01/2021 00:37:52 Searching for BAN
+09/01/2021 00:37:59 Found Account number in Gen2 8347100017853972
+09/01/2021 00:38:08 Started SAT process in Gen 2 for 8347100017853972
+09/01/2021 00:38:30 No TV Services associated with the Account Number -  8347100017853972
+09/01/2021 00:38:51 Error: Unale to find Sync&Provision Button for Internet Service
+09/01/2021 00:38:51 Count of transaction data 10
+09/01/2021 00:38:51 Processing Account Number 655239001
+09/01/2021 00:38:51Processing Transaction Number: 2
+09/01/2021 00:38:53 Started : UIM Login Sequence
+09/01/2021 00:38:53 Started : UIM process in NCW URL
+09/01/2021 00:38:55 Closing Restore pop-up
+09/01/2021 00:39:05 Entering Username
+09/01/2021 00:39:08 Entering Password
+09/01/2021 00:39:28 UIM Login successful
+09/01/2021 00:39:28 Click on Parties
+09/01/2021 00:39:53 Adding Billing Account Number Field
+09/01/2021 00:40:11 Entering Billing Account Number :655239001
+09/01/2021 00:40:18 Storing the Parties in a datatable
+09/01/2021 00:40:19 No parties associated with the account number - 655239001
+09/01/2021 00:40:19 Start the process for the next account number in transaction data
+09/01/2021 00:40:19 Logout from UIM 
+09/01/2021 00:40:21 Count of transaction data 10
+09/01/2021 00:40:21 Processing Account Number 8347100017855852
+09/01/2021 00:40:21Processing Transaction Number: 3
+09/01/2021 00:40:23 Started : UIM Login Sequence
+09/01/2021 00:40:23 Started : UIM process in NCE URL
+09/01/2021 00:40:24 Closing Restore pop-up
+09/01/2021 00:40:38 Entering Username
+09/01/2021 00:40:39 Entering Password
+09/01/2021 00:41:05 UIM Login successful
+09/01/2021 00:41:05 Click on Parties
+09/01/2021 00:41:18 Adding Billing Account Number Field
+09/01/2021 00:41:36 Entering Billing Account Number :8347100017855852
+09/01/2021 00:41:42 Storing the Parties in a datatable
+09/01/2021 00:41:43 Loop through each party ID
+09/01/2021 00:41:43 Partie ID:22876435
+09/01/2021 00:41:43 Party Name :66219779_68708170
+09/01/2021 00:41:43 Click on Services
+09/01/2021 00:41:49 Enter Party name in party name field
+09/01/2021 00:41:56 Extracting the services into Datatable
+09/01/2021 00:41:58 Loop through each service ID
+09/01/2021 00:41:58 Click on Service ID : 22127626
+09/01/2021 00:41:58 Service is in Disconnected status, Bot will not perform any action  22127626
+09/01/2021 00:41:58 Logout from UIM 22127626
+09/01/2021 00:42:00 Started : SAT Sequence
+09/01/2021 00:42:00 SAT Login successful
+09/01/2021 00:42:00 Searching for BAN
+09/01/2021 00:42:08 Found Account number in Gen2 8347100017855852
+09/01/2021 00:42:24 Error: while processing the account numer 8347100017855852
+09/01/2021 00:42:34 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017855852
+09/01/2021 00:42:36 Count of transaction data 10
+09/01/2021 00:42:36 Processing Account Number 8347100017855936
+09/01/2021 00:42:36Processing Transaction Number: 4
+09/01/2021 00:42:38 Started : UIM Login Sequence
+09/01/2021 00:42:38 Started : UIM process in NCE URL
+09/01/2021 00:42:39 Closing Restore pop-up
+09/01/2021 00:42:49 Entering Username
+09/01/2021 00:42:51 Entering Password
+09/01/2021 00:43:10 UIM Login successful
+09/01/2021 00:43:10 Click on Parties
+09/01/2021 00:43:35 Adding Billing Account Number Field
+09/01/2021 00:43:53 Entering Billing Account Number :8347100017855936
+09/01/2021 00:44:00 Storing the Parties in a datatable
+09/01/2021 00:44:01 No parties associated with the account number - 8347100017855936
+09/01/2021 00:44:01 Start the process for the next account number in transaction data
+09/01/2021 00:44:01 Logout from UIM 
+09/01/2021 00:44:02 Count of transaction data 10
+09/01/2021 00:44:02 Processing Account Number 655238901
+09/01/2021 00:44:02Processing Transaction Number: 5
+09/01/2021 00:44:05 Started : UIM Login Sequence
+09/01/2021 00:44:05 Started : UIM process in NCW URL
+09/01/2021 00:44:06 Closing Restore pop-up
+09/01/2021 00:44:16 Entering Username
+09/01/2021 00:44:18 Entering Password
+09/01/2021 00:45:00 Started : UIM process in NCW URL
+09/01/2021 00:45:01 Closing Restore pop-up
+09/01/2021 00:45:12 Entering Username
+09/01/2021 00:45:15 Entering Password
+09/01/2021 00:45:33 UIM Login successful
+09/01/2021 00:45:33 Click on Parties
+09/01/2021 00:45:45 Adding Billing Account Number Field
+09/01/2021 00:46:04 Entering Billing Account Number :655238901
+09/01/2021 00:46:10 Storing the Parties in a datatable
+09/01/2021 00:46:11 No parties associated with the account number - 655238901
+09/01/2021 00:46:11 Start the process for the next account number in transaction data
+09/01/2021 00:46:11 Logout from UIM 
+09/01/2021 00:46:13 Count of transaction data 10
+09/01/2021 00:46:13 Processing Account Number 655237701
+09/01/2021 00:46:13Processing Transaction Number: 6
+09/01/2021 00:46:15 Started : UIM Login Sequence
+09/01/2021 00:46:15 Started : UIM process in NCW URL
+09/01/2021 00:46:17 Closing Restore pop-up
+09/01/2021 00:46:27 Entering Username
+09/01/2021 00:46:29 Entering Password
+09/01/2021 00:47:10 Started : UIM process in NCW URL
+09/01/2021 00:47:12 Closing Restore pop-up
+09/01/2021 00:47:22 Entering Username
+09/01/2021 00:47:23 Entering Password
+09/01/2021 00:47:51 UIM Login successful
+09/01/2021 00:47:51 Click on Parties
+09/01/2021 00:48:13 Adding Billing Account Number Field
+09/01/2021 00:48:31 Entering Billing Account Number :655237701
+09/01/2021 00:48:38 Storing the Parties in a datatable
+09/01/2021 00:48:39 No parties associated with the account number - 655237701
+09/01/2021 00:48:39 Start the process for the next account number in transaction data
+09/01/2021 00:48:39 Logout from UIM 
+09/01/2021 00:48:40 Count of transaction data 10
+09/01/2021 00:48:41 Processing Account Number 8347100017854863
+09/01/2021 00:48:41Processing Transaction Number: 7
+09/01/2021 00:48:43 Started : UIM Login Sequence
+09/01/2021 00:48:43 Started : UIM process in NCE URL
+09/01/2021 00:48:44 Closing Restore pop-up
+09/01/2021 00:48:55 Entering Username
+09/01/2021 00:48:56 Entering Password
+09/01/2021 00:49:38 Started : UIM process in NCE URL
+09/01/2021 00:49:39 Closing Restore pop-up
+09/01/2021 00:49:51 Entering Username
+09/01/2021 00:49:52 Entering Password
+09/01/2021 00:50:09 UIM Login successful
+09/01/2021 00:50:09 Click on Parties
+09/01/2021 00:50:22 Adding Billing Account Number Field
+09/01/2021 00:50:40 Entering Billing Account Number :8347100017854863
+09/01/2021 00:50:47 Storing the Parties in a datatable
+09/01/2021 00:50:48 No parties associated with the account number - 8347100017854863
+09/01/2021 00:50:48 Start the process for the next account number in transaction data
+09/01/2021 00:50:48 Logout from UIM 
+09/01/2021 00:50:50 Count of transaction data 10
+09/01/2021 00:50:50 Processing Account Number 8347100017854152
+09/01/2021 00:50:50Processing Transaction Number: 8
+09/01/2021 00:50:52 Started : UIM Login Sequence
+09/01/2021 00:50:52 Started : UIM process in NCE URL
+09/01/2021 00:50:54 Closing Restore pop-up
+09/01/2021 00:51:07 Entering Username
+09/01/2021 00:51:09 Entering Password
+09/01/2021 00:51:50 Started : UIM process in NCE URL
+09/01/2021 00:51:52 Closing Restore pop-up
+09/01/2021 00:52:02 Entering Username
+09/01/2021 00:52:03 Entering Password
+09/01/2021 00:52:27 UIM Login successful
+09/01/2021 00:52:27 Click on Parties
+09/01/2021 00:52:46 Adding Billing Account Number Field
+09/01/2021 00:53:04 Entering Billing Account Number :8347100017854152
+09/01/2021 00:53:11 Storing the Parties in a datatable
+09/01/2021 00:53:12 No parties associated with the account number - 8347100017854152
+09/01/2021 00:53:12 Start the process for the next account number in transaction data
+09/01/2021 00:53:12 Logout from UIM 
+09/01/2021 00:53:14 Count of transaction data 10
+09/01/2021 00:53:14 Processing Account Number 8347100017854657
+09/01/2021 00:53:14Processing Transaction Number: 9
+09/01/2021 00:53:16 Started : UIM Login Sequence
+09/01/2021 00:53:16 Started : UIM process in NCE URL
+09/01/2021 00:53:17 Closing Restore pop-up
+09/01/2021 00:53:27 Entering Username
+09/01/2021 00:53:29 Entering Password
+09/01/2021 00:53:50 UIM Login successful
+09/01/2021 00:53:50 Click on Parties
+09/01/2021 00:54:04 Adding Billing Account Number Field
+09/01/2021 00:54:22 Entering Billing Account Number :8347100017854657
+09/01/2021 00:54:29 Storing the Parties in a datatable
+09/01/2021 00:54:30 No parties associated with the account number - 8347100017854657
+09/01/2021 00:54:30 Start the process for the next account number in transaction data
+09/01/2021 00:54:30 Logout from UIM 
+09/01/2021 00:54:32 Process finished due to no more transaction data

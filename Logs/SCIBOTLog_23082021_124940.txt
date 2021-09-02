@@ -1,0 +1,47 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 12:49:40
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 12:49:40
+08/23/2021 12:49:41 Started : Login UIM Sequence
+08/23/2021 12:49:45 Entering Username
+08/23/2021 12:49:55 Entering Password
+08/23/2021 12:50:06 Click on Parties
+08/23/2021 12:50:17 Adding Billing Account Number Field
+08/23/2021 12:50:40 Entering Billing Account Number :8347100017855936
+08/23/2021 12:50:51 Storing the Parties in a datatable
+08/23/2021 12:50:52 No parties associated with the account number - 8347100017855936
+08/23/2021 12:50:52 Start the process for the next account number in transaction data
+08/23/2021 12:51:32 Started : Login UIM Sequence
+08/23/2021 12:51:33 Entering Username
+08/23/2021 12:51:39 Entering Password
+08/23/2021 12:51:50 Click on Parties
+08/23/2021 12:52:01 Adding Billing Account Number Field
+08/23/2021 12:52:23 Entering Billing Account Number :8347100017855852
+08/23/2021 12:52:34 Storing the Parties in a datatable
+08/23/2021 12:52:35 Loop through each party ID
+08/23/2021 12:52:35 Partie ID:22876435
+08/23/2021 12:52:35 Party Name :66219779_68708170
+08/23/2021 12:52:35 Click on Services
+08/23/2021 12:52:46 Enter Party name in party name field
+08/23/2021 12:52:57 Extracting the services into Datatable
+08/23/2021 12:52:58 Loop through each service ID
+08/23/2021 12:52:58 Click on Service ID : 22127626
+08/23/2021 12:52:58 Status of 22127626 is In service
+08/23/2021 12:53:14 Click on Action
+08/23/2021 12:53:19 Click on Disconnect
+08/23/2021 12:53:27 Click on Complete
+08/23/2021 12:53:28 Disconnection process is completed for 22127626
+08/23/2021 12:53:38 Logout from UIM 22127626
+08/23/2021 12:53:44 Started : Login UIM Sequence
+08/23/2021 12:53:45 Entering Username
+08/23/2021 12:53:50 Entering Password
+08/23/2021 12:54:04 Click on Parties
+08/23/2021 12:54:15 Adding Billing Account Number Field
+08/23/2021 12:55:24 Started : Login UIM Sequence
+08/23/2021 12:55:25 Entering Username
+08/23/2021 12:55:30 Entering Password
+08/23/2021 12:55:41 Click on Parties
+08/23/2021 12:55:52 Adding Billing Account Number Field
+08/23/2021 12:56:36 Started : Login UIM Sequence
+08/23/2021 12:56:37 Entering Username
+08/23/2021 12:56:42 Entering Password
+08/23/2021 12:56:53 Click on Parties
+08/23/2021 12:57:04 Adding Billing Account Number Field

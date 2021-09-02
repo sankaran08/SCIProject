@@ -1,0 +1,39 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 17:15:00
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 17:15:00
+08/23/2021 17:15:06 Entering Username to login UIM
+08/23/2021 17:15:15 Entering Password
+08/23/2021 17:15:29 Started : UIM Sequence
+08/23/2021 17:15:29 Click on Parties
+08/23/2021 17:15:50 Adding Billing Account Number Field
+08/23/2021 17:16:12 Entering Billing Account Number :8347100017855936
+08/23/2021 17:16:23 Storing the Parties in a datatable
+08/23/2021 17:16:24 No parties associated with the account number - 8347100017855936
+08/23/2021 17:16:24 Start the process for the next account number in transaction data
+08/23/2021 17:16:27 Started : UIM Sequence
+08/23/2021 17:16:27 Click on Parties
+08/23/2021 17:16:48 Adding Billing Account Number Field
+08/23/2021 17:17:11 Entering Billing Account Number :8347100017855852
+08/23/2021 17:17:22 Storing the Parties in a datatable
+08/23/2021 17:17:23 Loop through each party ID
+08/23/2021 17:17:23 Partie ID:22876435
+08/23/2021 17:17:23 Party Name :66219779_68708170
+08/23/2021 17:17:23 Click on Services
+08/23/2021 17:17:34 Enter Party name in party name field
+08/23/2021 17:17:46 Extracting the services into Datatable
+08/23/2021 17:17:47 Loop through each service ID
+08/23/2021 17:17:47 Click on Service ID : 22127626
+08/23/2021 17:17:47 Status of 22127626 is In service
+08/23/2021 17:18:02 Click on Action
+08/23/2021 17:18:08 Click on Disconnect
+08/23/2021 17:18:17 Click on Complete
+08/23/2021 17:18:18 Disconnection process is completed for 22127626
+08/23/2021 17:18:30 Started : UIM Sequence
+08/23/2021 17:18:30 Click on Parties
+08/23/2021 17:18:52 Adding Billing Account Number Field
+08/23/2021 17:19:15 Entering Billing Account Number :8347100017855480
+08/23/2021 17:19:27 Storing the Parties in a datatable
+08/23/2021 17:19:29 No parties associated with the account number - 8347100017855480
+08/23/2021 17:19:29 Start the process for the next account number in transaction data
+08/23/2021 17:19:30 Started : UIM Sequence
+08/23/2021 17:19:30 Click on Parties
+08/23/2021 17:19:52 Adding Billing Account Number Field

@@ -1,0 +1,34 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 17:52:26
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 17:52:26
+08/23/2021 17:52:29 Entering Username to login UIM
+08/23/2021 17:52:39 Entering Password
+08/23/2021 17:52:56 Started : UIM Sequence
+08/23/2021 17:52:56 Click on Parties
+08/23/2021 17:53:17 Adding Billing Account Number Field
+08/23/2021 17:53:40 Entering Billing Account Number :8347100017855936
+08/23/2021 17:53:51 Storing the Parties in a datatable
+08/23/2021 17:53:52 No parties associated with the account number - 8347100017855936
+08/23/2021 17:53:52 Start the process for the next account number in transaction data
+08/23/2021 17:53:54 Started : UIM Sequence
+08/23/2021 17:53:54 Click on Parties
+08/23/2021 17:54:15 Adding Billing Account Number Field
+08/23/2021 17:54:38 Entering Billing Account Number :8347100017855852
+08/23/2021 17:54:49 Storing the Parties in a datatable
+08/23/2021 17:54:50 Loop through each party ID
+08/23/2021 17:54:50 Partie ID:22876435
+08/23/2021 17:54:50 Party Name :66219779_68708170
+08/23/2021 17:54:50 Click on Services
+08/23/2021 17:55:01 Enter Party name in party name field
+08/23/2021 17:55:12 Extracting the services into Datatable
+08/23/2021 17:55:14 Loop through each service ID
+08/23/2021 17:55:14 Click on Service ID : 22127626
+08/23/2021 17:55:15 Started : UIM Sequence
+08/23/2021 17:55:15 Click on Parties
+08/23/2021 17:55:36 Adding Billing Account Number Field
+08/23/2021 17:55:58 Entering Billing Account Number :8347100017855480
+08/23/2021 17:56:10 Storing the Parties in a datatable
+08/23/2021 17:56:11 No parties associated with the account number - 8347100017855480
+08/23/2021 17:56:11 Start the process for the next account number in transaction data
+08/23/2021 17:56:12 Started : UIM Sequence
+08/23/2021 17:56:12 Click on Parties
+08/23/2021 17:56:32 Adding Billing Account Number Field

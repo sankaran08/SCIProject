@@ -1,0 +1,32 @@
+﻿09/01/2021 15:46:36 The SCI BOT execution is started
+09/01/2021 15:46:36 Reading Transaction Data from Transaction Excel
+09/01/2021 15:46:36 Recorded all the Transaction data into a datatable
+09/01/2021 15:46:41 SAT Login started
+09/01/2021 15:46:48 Logged into SAT
+09/01/2021 15:46:54 Count of transaction data 10
+09/01/2021 15:46:54 Processing Account Number 8347100017856090
+09/01/2021 15:46:54Processing Transaction Number: 0
+09/01/2021 15:46:56 Started : UIM Login Sequence
+09/01/2021 15:46:56 Read UIM Login Credentials
+09/01/2021 15:46:56 Started : UIM process in NCE URL
+09/01/2021 15:46:57 Closing Restore pop-up
+09/01/2021 15:47:08 Entering Username
+09/01/2021 15:47:09 Entering Password
+09/01/2021 15:47:51 Started : UIM process in NCE URL
+09/01/2021 15:47:52 Closing Restore pop-up
+09/01/2021 15:48:02 Entering Username
+09/01/2021 15:48:04 Entering Password
+09/01/2021 15:48:45 Started : UIM process in NCE URL
+09/01/2021 15:48:47 Closing Restore pop-up
+09/01/2021 15:48:59 Entering Username
+09/01/2021 15:49:00 Entering Password
+09/01/2021 15:49:25 UIM Login successful
+09/01/2021 15:49:25 Click on Parties
+09/01/2021 15:49:47 Adding Billing Account Number Field
+09/01/2021 15:50:06 Entering Billing Account Number :8347100017856090
+09/01/2021 15:50:12 Storing the Parties in a datatable
+09/01/2021 15:50:13 Loop through each party ID
+09/01/2021 15:50:13 Partie ID:22876433
+09/01/2021 15:50:13 Party Name :72546596_102614753
+09/01/2021 15:50:13 Click on Services
+09/01/2021 15:50:19 Enter Party name in party name field

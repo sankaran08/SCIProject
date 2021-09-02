@@ -1,0 +1,43 @@
+﻿The SCI BOT execution is started                                                                                  08/28/2021 19:17:33
+Read the Config file and saved all the data in dictionary variable                                            08/28/2021 19:17:33
+08/28/2021 19:17:47 SAT Login started
+08/28/2021 19:18:09 Logged into SAT
+08/28/2021 19:18:17 Started : UIM Login Sequence
+08/28/2021 19:18:18 Started : UIM Login Sequence
+08/28/2021 19:18:18 Started : UIM process in NCE URL
+08/28/2021 19:18:49 Entering Username
+08/28/2021 19:18:50 Entering Password
+08/28/2021 19:19:04 UIM Login successful
+08/28/2021 19:19:04 Click on Parties
+08/28/2021 19:19:29 Adding Billing Account Number Field
+08/28/2021 19:19:53 Entering Billing Account Number :8347100017854863
+08/28/2021 19:20:05 Storing the Parties in a datatable
+08/28/2021 19:20:06 No parties associated with the account number - 8347100017854863
+08/28/2021 19:20:06 Start the process for the next account number in transaction data
+08/28/2021 19:20:06 Logout from UIM 
+08/28/2021 19:20:10 Started : UIM Login Sequence
+08/28/2021 19:20:10 Started : UIM Login Sequence
+08/28/2021 19:20:10 Started : UIM process in NCE URL
+08/28/2021 19:20:42 Entering Username
+08/28/2021 19:20:43 Entering Password
+08/28/2021 19:20:58 UIM Login successful
+08/28/2021 19:20:58 Click on Parties
+08/28/2021 19:21:15 Adding Billing Account Number Field
+08/28/2021 19:21:38 Entering Billing Account Number :8347100017855480
+08/28/2021 19:21:50 Storing the Parties in a datatable
+08/28/2021 19:21:51 No parties associated with the account number - 8347100017855480
+08/28/2021 19:21:51 Start the process for the next account number in transaction data
+08/28/2021 19:21:51 Logout from UIM 
+08/28/2021 19:21:54 Started : UIM Login Sequence
+08/28/2021 19:21:54 Started : UIM Login Sequence
+08/28/2021 19:21:54 Started : UIM process in NCE URL
+08/28/2021 19:22:25 Entering Username
+08/28/2021 19:22:26 Entering Password
+08/28/2021 19:22:40 UIM Login successful
+08/28/2021 19:22:40 Click on Parties
+08/28/2021 19:23:14 Adding Billing Account Number Field
+08/28/2021 19:23:37 Entering Billing Account Number :8347100017855936
+08/28/2021 19:23:49 Storing the Parties in a datatable
+08/28/2021 19:23:50 No parties associated with the account number - 8347100017855936
+08/28/2021 19:23:50 Start the process for the next account number in transaction data
+08/28/2021 19:23:50 Logout from UIM 

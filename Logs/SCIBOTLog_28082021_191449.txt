@@ -1,0 +1,9 @@
+﻿The SCI BOT execution is started                                                                                  08/28/2021 19:14:49
+Read the Config file and saved all the data in dictionary variable                                            08/28/2021 19:14:49
+08/28/2021 19:15:06 SAT Login started
+08/28/2021 19:15:24 Logged into SAT
+08/28/2021 19:15:32 Started : UIM Login Sequence
+08/28/2021 19:15:32 Started : UIM Login Sequence
+08/28/2021 19:15:32 Started : UIM process in NCE URL
+08/28/2021 19:16:04 Entering Username
+08/28/2021 19:16:05 Entering Password

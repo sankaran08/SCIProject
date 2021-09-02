@@ -1,0 +1,8 @@
+﻿The SCI BOT execution is started                                                                                  08/28/2021 16:48:13
+Read the Config file and saved all the data in dictionary variable                                            08/28/2021 16:48:13
+08/28/2021 16:48:28 SAT Login started
+08/28/2021 16:48:43 Logged into SAT
+08/28/2021 16:49:00 Started : SAT Sequence
+08/28/2021 16:49:15 SAT Login started
+08/28/2021 16:49:25 Logged into SAT
+08/28/2021 16:49:41 Started : SAT Sequence

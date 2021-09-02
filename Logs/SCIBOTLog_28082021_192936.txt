@@ -1,0 +1,38 @@
+﻿The SCI BOT execution is started                                                                                  08/28/2021 19:29:36
+Read the Config file and saved all the data in dictionary variable                                            08/28/2021 19:29:36
+08/28/2021 19:29:49 SAT Login started
+08/28/2021 19:30:07 Logged into SAT
+08/28/2021 19:30:16 Started : UIM Login Sequence
+08/28/2021 19:30:16 Started : UIM Login Sequence
+08/28/2021 19:30:16 Started : UIM process in NCE URL
+08/28/2021 19:30:48 Entering Username
+08/28/2021 19:30:49 Entering Password
+08/28/2021 19:31:03 UIM Login successful
+08/28/2021 19:31:03 Click on Parties
+08/28/2021 19:31:19 Adding Billing Account Number Field
+08/28/2021 19:31:42 Entering Billing Account Number :8347100017854863
+08/28/2021 19:31:54 Storing the Parties in a datatable
+08/28/2021 19:31:55 No parties associated with the account number - 8347100017854863
+08/28/2021 19:31:55 Start the process for the next account number in transaction data
+08/28/2021 19:31:55 Logout from UIM 
+08/28/2021 19:32:00 Started : UIM Login Sequence
+08/28/2021 19:32:00 Started : UIM Login Sequence
+08/28/2021 19:32:00 Started : UIM process in NCE URL
+08/28/2021 19:32:31 Entering Username
+08/28/2021 19:32:32 Entering Password
+08/28/2021 19:32:48 UIM Login successful
+08/28/2021 19:32:48 Click on Parties
+08/28/2021 19:32:55 Adding Billing Account Number Field
+08/28/2021 19:33:19 Entering Billing Account Number :8347100017856223
+08/28/2021 19:33:30 Storing the Parties in a datatable
+08/28/2021 19:33:32 Loop through each party ID
+08/28/2021 19:33:32 Partie ID:22876432
+08/28/2021 19:33:32 Party Name :72546614_102614171
+08/28/2021 19:33:32 Click on Services
+08/28/2021 19:33:38 Enter Party name in party name field
+08/28/2021 19:33:45 Extracting the services into Datatable
+08/28/2021 19:33:46 Loop through each service ID
+08/28/2021 19:33:46 Click on Service ID : 22127620
+08/28/2021 19:33:46 Status of 22127620 is In service
+08/28/2021 19:34:02 Click on Action
+08/28/2021 19:34:08 Click on Disconnect

@@ -1,0 +1,18 @@
+﻿09/01/2021 17:22:54 The SCI BOT execution is started
+09/01/2021 17:22:54 Reading Transaction Data from Transaction Excel
+09/01/2021 17:22:54 Recorded all the Transaction data into a datatable
+09/01/2021 17:22:58 SAT Login started
+09/01/2021 17:23:43 Entering SAT Username
+09/01/2021 17:23:44 Entering SAT Password
+09/01/2021 17:23:52 Count of transaction data 4
+09/01/2021 17:23:52 Processing Account Number 8347100017856090
+09/01/2021 17:23:52Processing Transaction Number: 0
+09/01/2021 17:23:55 Started : UIM Login Sequence
+09/01/2021 17:23:55 Read UIM Login Credentials
+09/01/2021 17:24:05 Started : UIM process in NCE URL
+09/01/2021 17:24:06 Closing Restore pop-up
+09/01/2021 17:24:22 Entering Username
+09/01/2021 17:24:23 Entering Password
+09/01/2021 17:24:44 UIM Login successful
+09/01/2021 17:24:44 Click on Parties
+09/01/2021 17:24:58 Adding Billing Account Number Field

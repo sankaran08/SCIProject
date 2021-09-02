@@ -1,0 +1,43 @@
+﻿09/01/2021 00:07:01 The SCI BOT execution is started
+09/01/2021 00:07:01 Reading Transaction Data from Transaction Excel
+09/01/2021 00:07:01 Recorded all the Transaction data into a datatable
+09/01/2021 00:07:17 SAT Login started
+09/01/2021 00:07:39 Entering SAT Username
+09/01/2021 00:07:40 Entering SAT Password
+09/01/2021 00:07:57 Count of transaction data 4
+09/01/2021 00:07:57 Processing Account Number 8347100017856090
+09/01/2021 00:07:57Processing Transaction Number: 0
+09/01/2021 00:08:00 Started : UIM Login Sequence
+09/01/2021 00:08:00 Started : UIM process in NCE URL
+09/01/2021 00:08:01 Closing Restore pop-up
+09/01/2021 00:08:12 Entering Username
+09/01/2021 00:08:13 Entering Password
+09/01/2021 00:08:28 UIM Login successful
+09/01/2021 00:08:28 Click on Parties
+09/01/2021 00:08:39 Adding Billing Account Number Field
+09/01/2021 00:08:58 Entering Billing Account Number :8347100017856090
+09/01/2021 00:09:05 Storing the Parties in a datatable
+09/01/2021 00:09:06 Loop through each party ID
+09/01/2021 00:09:06 Partie ID:22876433
+09/01/2021 00:09:06 Party Name :72546596_102614753
+09/01/2021 00:09:06 Click on Services
+09/01/2021 00:09:12 Enter Party name in party name field
+09/01/2021 00:09:19 Extracting the services into Datatable
+09/01/2021 00:09:20 Loop through each service ID
+09/01/2021 00:09:20 Click on Service ID : 22127622
+09/01/2021 00:09:20 Service is in Disconnected status, Bot will not perform any action  22127622
+09/01/2021 00:09:20 Logout from UIM 22127622
+09/01/2021 00:09:24 Started : SAT Sequence
+09/01/2021 00:09:24 SAT Login successful
+09/01/2021 00:09:24 Searching for BAN
+09/01/2021 00:09:31 Found Account number in Gen2 8347100017856090
+09/01/2021 00:09:47 Error: while processing the account numer 8347100017856090
+09/01/2021 00:09:57 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+09/01/2021 00:10:00 Count of transaction data 4
+09/01/2021 00:10:00 Processing Account Number 8347100017853972
+09/01/2021 00:10:00Processing Transaction Number: 1
+09/01/2021 00:10:02 Started : UIM Login Sequence
+09/01/2021 00:10:02 Started : UIM process in NCE URL
+09/01/2021 00:10:03 Closing Restore pop-up
+09/01/2021 00:10:13 Entering Username
+09/01/2021 00:10:14 Entering Password

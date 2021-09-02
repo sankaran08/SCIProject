@@ -1,0 +1,76 @@
+﻿The SCI BOT execution is started                                                                                  08/28/2021 20:57:09
+Read the Config file and saved all the data in dictionary variable                                            08/28/2021 20:57:09
+08/28/2021 20:57:24 SAT Login started
+08/28/2021 20:57:40 Logged into SAT
+08/28/2021 20:57:47 Started : UIM Login Sequence
+08/28/2021 20:57:47 Started : UIM Login Sequence
+08/28/2021 20:57:47 Started : UIM process in NCE URL
+08/28/2021 20:58:18 Entering Username
+08/28/2021 20:58:20 Entering Password
+08/28/2021 20:58:33 UIM Login successful
+08/28/2021 20:58:33 Click on Parties
+08/28/2021 20:58:47 Adding Billing Account Number Field
+08/28/2021 20:59:10 Entering Billing Account Number :8347100017854863
+08/28/2021 20:59:21 Storing the Parties in a datatable
+08/28/2021 20:59:23 No parties associated with the account number - 8347100017854863
+08/28/2021 20:59:23 Start the process for the next account number in transaction data
+08/28/2021 20:59:23 Logout from UIM 
+08/28/2021 20:59:26 Started : UIM Login Sequence
+08/28/2021 20:59:26 Started : UIM Login Sequence
+08/28/2021 20:59:26 Started : UIM process in NCE URL
+08/28/2021 20:59:57 Entering Username
+08/28/2021 20:59:59 Entering Password
+08/28/2021 21:00:08 UIM Login successful
+08/28/2021 21:00:08 Click on Parties
+08/28/2021 21:00:14 Adding Billing Account Number Field
+08/28/2021 21:00:37 Entering Billing Account Number :8347100017856223
+08/28/2021 21:00:49 Storing the Parties in a datatable
+08/28/2021 21:00:50 Loop through each party ID
+08/28/2021 21:00:50 Partie ID:22876432
+08/28/2021 21:00:50 Party Name :72546614_102614171
+08/28/2021 21:00:50 Click on Services
+08/28/2021 21:00:55 Enter Party name in party name field
+08/28/2021 21:01:03 Extracting the services into Datatable
+08/28/2021 21:01:04 Loop through each service ID
+08/28/2021 21:01:04 Click on Service ID : 22127620
+08/28/2021 21:01:04 Logout from UIM 22127620
+08/28/2021 21:01:06 Started : SAT Sequence
+08/28/2021 21:01:06 SAT Login successful
+08/28/2021 21:01:06 Searching for BAN
+08/28/2021 21:01:16 Found Account number in Gen2 8347100017856223
+08/28/2021 21:01:33 Error: while processing the account numer 8347100017856223
+08/28/2021 21:01:43 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856223
+08/28/2021 21:01:45 Started : UIM Login Sequence
+08/28/2021 21:01:45 Started : UIM Login Sequence
+08/28/2021 21:01:45 Started : UIM process in NCE URL
+08/28/2021 21:02:17 Entering Username
+08/28/2021 21:02:18 Entering Password
+08/28/2021 21:02:26 UIM Login successful
+08/28/2021 21:02:26 Click on Parties
+08/28/2021 21:02:37 Adding Billing Account Number Field
+08/28/2021 21:03:00 Entering Billing Account Number :8347100017856090
+08/28/2021 21:03:11 Storing the Parties in a datatable
+08/28/2021 21:03:12 Loop through each party ID
+08/28/2021 21:03:12 Partie ID:22876433
+08/28/2021 21:03:12 Party Name :72546596_102614753
+08/28/2021 21:03:12 Click on Services
+08/28/2021 21:03:18 Enter Party name in party name field
+08/28/2021 21:03:25 Extracting the services into Datatable
+08/28/2021 21:03:26 Loop through each service ID
+08/28/2021 21:03:26 Click on Service ID : 22127622
+08/28/2021 21:03:26 Status of 22127622 is In service
+08/28/2021 21:03:42 Click on Action
+08/28/2021 21:03:48 Click on Disconnect
+08/28/2021 21:03:55 Click on Complete
+08/28/2021 21:03:56 Disconnection process is completed for 22127622
+08/28/2021 21:04:02 Logout from UIM 22127622
+08/28/2021 21:04:04 Started : SAT Sequence
+08/28/2021 21:04:04 SAT Login successful
+08/28/2021 21:04:04 Searching for BAN
+08/28/2021 21:04:11 Found Account number in Gen2 8347100017856090
+08/28/2021 21:04:27 Error: while processing the account numer 8347100017856090
+08/28/2021 21:04:37 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+08/28/2021 21:04:39 Started : UIM Login Sequence
+08/28/2021 21:04:39 Started : UIM Login Sequence
+08/28/2021 21:04:39 Started : UIM process in NCW URL
+08/28/2021 21:04:41 Entering Username

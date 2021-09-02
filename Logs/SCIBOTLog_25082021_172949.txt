@@ -1,0 +1,66 @@
+﻿The SCI BOT execution is started                                                                                  08/25/2021 17:29:49
+Read the Config file and saved all the data in dictionary variable                                            08/25/2021 17:29:49
+08/25/2021 17:29:54 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:30:28 Started : UIM Login Sequence
+08/25/2021 17:30:28 Started : UIM Login Sequence
+08/25/2021 17:30:28 Started : UIM process in NCE URL
+08/25/2021 17:30:29 Entering Username
+08/25/2021 17:30:34 Entering Password
+08/25/2021 17:30:47 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:30:54 Started : UIM Login Sequence
+08/25/2021 17:30:54 Started : UIM Login Sequence
+08/25/2021 17:30:54 Started : UIM process in NCE URL
+08/25/2021 17:30:55 Entering Username
+08/25/2021 17:31:01 Entering Password
+08/25/2021 17:31:13 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:31:21 Started : UIM Login Sequence
+08/25/2021 17:31:21 Started : UIM Login Sequence
+08/25/2021 17:31:21 Started : UIM process in NCE URL
+08/25/2021 17:31:22 Entering Username
+08/25/2021 17:31:27 Entering Password
+08/25/2021 17:31:40 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:32:12 Started : UIM Login Sequence
+08/25/2021 17:32:12 Started : UIM Login Sequence
+08/25/2021 17:32:12 Started : UIM process in NCE URL
+08/25/2021 17:32:13 Entering Username
+08/25/2021 17:32:22 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:32:54 Started : UIM Login Sequence
+08/25/2021 17:32:54 Started : UIM Login Sequence
+08/25/2021 17:32:54 Started : UIM process in NCE URL
+08/25/2021 17:32:55 Entering Username
+08/25/2021 17:33:40 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:34:13 Started : UIM Login Sequence
+08/25/2021 17:34:13 Started : UIM Login Sequence
+08/25/2021 17:34:13 Started : UIM process in NCE URL
+08/25/2021 17:34:14 Entering Username
+08/25/2021 17:34:23 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:34:55 Started : UIM Login Sequence
+08/25/2021 17:34:55 Started : UIM Login Sequence
+08/25/2021 17:34:55 Started : UIM process in NCE URL
+08/25/2021 17:34:57 Entering Username
+08/25/2021 17:35:03 Entering Password
+08/25/2021 17:35:17 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:35:52 Started : UIM Login Sequence
+08/25/2021 17:35:52 Started : UIM Login Sequence
+08/25/2021 17:35:52 Started : UIM process in NCE URL
+08/25/2021 17:35:53 Entering Username
+08/25/2021 17:36:03 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:39:04 Started : UIM Login Sequence
+08/25/2021 17:39:04 Started : UIM Login Sequence
+08/25/2021 17:39:04 Started : UIM process in NCE URL
+08/25/2021 17:39:05 Entering Username
+08/25/2021 17:39:16 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:39:48 Started : UIM Login Sequence
+08/25/2021 17:39:48 Started : UIM Login Sequence
+08/25/2021 17:39:48 Started : UIM process in NCE URL
+08/25/2021 17:39:49 Entering Username
+08/25/2021 17:39:57 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:40:29 Started : UIM Login Sequence
+08/25/2021 17:40:29 Started : UIM Login Sequence
+08/25/2021 17:40:29 Started : UIM process in NCE URL
+08/25/2021 17:40:30 Entering Username
+08/25/2021 17:40:41 Started : UIM Sequence - closing if browser is opened
+08/25/2021 17:42:30 Started : UIM Login Sequence
+08/25/2021 17:42:30 Started : UIM Login Sequence
+08/25/2021 17:42:30 Started : UIM process in NCW URL
+08/25/2021 17:42:31 Entering Username

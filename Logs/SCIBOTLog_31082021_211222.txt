@@ -1,0 +1,46 @@
+﻿08/31/2021 21:12:22 The SCI BOT execution is started
+08/31/2021 21:12:22 Reading Transaction Data from Transaction Excel
+08/31/2021 21:12:23 Recorded all the Transaction data into a datatable
+08/31/2021 21:12:26 SAT Login started
+08/31/2021 21:12:34 Logged into SAT
+08/31/2021 21:12:40 Count of transaction data 4
+08/31/2021 21:12:40 Processing Account Number 8347100017856090
+08/31/2021 21:12:40Processing Transaction Number: 0
+08/31/2021 21:12:43 Started : UIM Login Sequence
+08/31/2021 21:12:53 Started : UIM process in NCE URL
+08/31/2021 21:12:54 Closing Restoe pop-up
+08/31/2021 21:13:24 Entering Username
+08/31/2021 21:13:25 Entering Password
+08/31/2021 21:13:36 UIM Login successful
+08/31/2021 21:13:36 Click on Parties
+08/31/2021 21:13:49 Adding Billing Account Number Field
+08/31/2021 21:14:08 Entering Billing Account Number :8347100017856090
+08/31/2021 21:14:15 Storing the Parties in a datatable
+08/31/2021 21:14:16 Loop through each party ID
+08/31/2021 21:14:16 Partie ID:22876433
+08/31/2021 21:14:16 Party Name :72546596_102614753
+08/31/2021 21:14:16 Click on Services
+08/31/2021 21:14:22 Enter Party name in party name field
+08/31/2021 21:14:29 Extracting the services into Datatable
+08/31/2021 21:14:31 Loop through each service ID
+08/31/2021 21:14:31 Click on Service ID : 22127622
+08/31/2021 21:14:31 Service is in Disconnected status, Bot will not perform any action  22127622
+08/31/2021 21:14:31 Logout from UIM 22127622
+08/31/2021 21:14:34 Started : SAT Sequence
+08/31/2021 21:14:34 SAT Login successful
+08/31/2021 21:14:34 Searching for BAN
+08/31/2021 21:14:45 Found Account number in Gen2 8347100017856090
+08/31/2021 21:15:01 Error: while processing the account numer 8347100017856090
+08/31/2021 21:15:12 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+08/31/2021 21:15:15 Count of transaction data 4
+08/31/2021 21:15:15 Processing Account Number 8347100017853972
+08/31/2021 21:15:15Processing Transaction Number: 1
+08/31/2021 21:15:16 Started : UIM Login Sequence
+08/31/2021 21:15:26 Started : UIM process in NCE URL
+08/31/2021 21:15:27 Closing Restoe pop-up
+08/31/2021 21:15:57 Entering Username
+08/31/2021 21:15:58 Entering Password
+08/31/2021 21:16:08 UIM Login successful
+08/31/2021 21:16:08 Click on Parties
+08/31/2021 21:16:19 Adding Billing Account Number Field
+08/31/2021 21:16:38 Entering Billing Account Number :8347100017853972

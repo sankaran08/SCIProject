@@ -1,0 +1,24 @@
+﻿The SCI BOT execution is started                                                                                  08/27/2021 20:43:35
+Read the Config file and saved all the data in dictionary variable                                            08/27/2021 20:43:35
+08/27/2021 20:43:47 SAT Login started
+08/27/2021 20:44:15 Logged into SAT
+08/27/2021 20:44:31 Started : SAT Sequence
+08/27/2021 20:44:31 SAT Login successful
+08/27/2021 20:44:31 Searching for BAN
+08/27/2021 20:45:43 Found Account number in Gen2 8347100017855936
+08/27/2021 20:45:58 Started SAT process in Gen 2 for 8347100017855936
+08/27/2021 20:46:34 No TV Services associated with the Account Number -  8347100017855936
+08/27/2021 20:46:40 Perform sync for Internet Service
+08/27/2021 20:47:15 Account Sync was successful for internet Service : 8347100017855936
+08/27/2021 20:47:51 No Wifi services are associated with the Account Number - 8347100017855936
+08/27/2021 20:48:27 Error: Unale to find Sync&Provision Button for Phone Service
+08/27/2021 20:48:27 BOT Execution completed for Gen2 for : 8347100017855936
+08/27/2021 20:48:29 Started : SAT Sequence
+08/27/2021 20:48:29 SAT Login successful
+08/27/2021 20:48:29 Searching for BAN
+08/27/2021 20:49:34 Found Account number in Gen2 8347100017855852
+08/27/2021 20:50:05 Error: while processing the account numer 8347100017855852
+08/27/2021 20:50:35 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017855852
+08/27/2021 20:50:36 Started : SAT Sequence
+08/27/2021 20:50:36 SAT Login successful
+08/27/2021 20:50:36 Searching for BAN

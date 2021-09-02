@@ -1,0 +1,143 @@
+﻿The SCI BOT execution is started                                                                                  08/29/2021 18:23:22
+Read the Config file and saved all the data in dictionary variable                                            08/29/2021 18:23:22
+08/29/2021 18:23:40 SAT Login started
+08/29/2021 18:23:51 Logged into SAT
+08/29/2021 18:23:59 Started : UIM Login Sequence
+08/29/2021 18:23:59 Started : UIM process in NCE URL
+08/29/2021 18:24:30 Entering Username
+08/29/2021 18:24:31 Entering Password
+08/29/2021 18:24:43 UIM Login successful
+08/29/2021 18:24:43 Click on Parties
+08/29/2021 18:24:58 Adding Billing Account Number Field
+08/29/2021 18:25:21 Entering Billing Account Number :8347100017854863
+08/29/2021 18:25:33 Storing the Parties in a datatable
+08/29/2021 18:25:34 No parties associated with the account number - 8347100017854863
+08/29/2021 18:25:34 Start the process for the next account number in transaction data
+08/29/2021 18:25:34 Logout from UIM 
+08/29/2021 18:25:37 Started : UIM Login Sequence
+08/29/2021 18:25:37 Started : UIM process in NCE URL
+08/29/2021 18:26:09 Entering Username
+08/29/2021 18:26:10 Entering Password
+08/29/2021 18:26:23 UIM Login successful
+08/29/2021 18:26:23 Click on Parties
+08/29/2021 18:26:29 Adding Billing Account Number Field
+08/29/2021 18:26:52 Entering Billing Account Number :8347100017856223
+08/29/2021 18:27:03 Storing the Parties in a datatable
+08/29/2021 18:27:05 Loop through each party ID
+08/29/2021 18:27:05 Partie ID:22876432
+08/29/2021 18:27:05 Party Name :72546614_102614171
+08/29/2021 18:27:05 Click on Services
+08/29/2021 18:27:10 Enter Party name in party name field
+08/29/2021 18:27:18 Extracting the services into Datatable
+08/29/2021 18:27:19 Loop through each service ID
+08/29/2021 18:27:19 Click on Service ID : 22127620
+08/29/2021 18:27:19 Logout from UIM 22127620
+08/29/2021 18:27:21 Started : SAT Sequence
+08/29/2021 18:27:21 SAT Login successful
+08/29/2021 18:27:21 Searching for BAN
+08/29/2021 18:27:28 Found Account number in Gen2 8347100017856223
+08/29/2021 18:27:44 Error: while processing the account numer 8347100017856223
+08/29/2021 18:27:55 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856223
+08/29/2021 18:27:57 Started : UIM Login Sequence
+08/29/2021 18:27:57 Started : UIM process in NCE URL
+08/29/2021 18:28:28 Entering Username
+08/29/2021 18:28:29 Entering Password
+08/29/2021 18:28:39 UIM Login successful
+08/29/2021 18:28:39 Click on Parties
+08/29/2021 18:28:53 Adding Billing Account Number Field
+08/29/2021 18:29:16 Entering Billing Account Number :8347100017855936
+08/29/2021 18:29:28 Storing the Parties in a datatable
+08/29/2021 18:29:29 No parties associated with the account number - 8347100017855936
+08/29/2021 18:29:29 Start the process for the next account number in transaction data
+08/29/2021 18:29:29 Logout from UIM 
+08/29/2021 18:29:31 Started : UIM Login Sequence
+08/29/2021 18:29:31 Started : UIM process in NCE URL
+08/29/2021 18:30:03 Entering Username
+08/29/2021 18:30:04 Entering Password
+08/29/2021 18:30:16 UIM Login successful
+08/29/2021 18:30:16 Click on Parties
+08/29/2021 18:30:22 Adding Billing Account Number Field
+08/29/2021 18:30:45 Entering Billing Account Number :8347100017856090
+08/29/2021 18:30:57 Storing the Parties in a datatable
+08/29/2021 18:30:58 Loop through each party ID
+08/29/2021 18:30:58 Partie ID:22876433
+08/29/2021 18:30:58 Party Name :72546596_102614753
+08/29/2021 18:30:58 Click on Services
+08/29/2021 18:31:04 Enter Party name in party name field
+08/29/2021 18:31:11 Extracting the services into Datatable
+08/29/2021 18:31:12 Loop through each service ID
+08/29/2021 18:31:12 Click on Service ID : 22127622
+08/29/2021 18:31:12 Logout from UIM 22127622
+08/29/2021 18:31:13 Started : SAT Sequence
+08/29/2021 18:31:13 SAT Login successful
+08/29/2021 18:31:13 Searching for BAN
+08/29/2021 18:31:22 Found Account number in Gen2 8347100017856090
+08/29/2021 18:31:38 Error: while processing the account numer 8347100017856090
+08/29/2021 18:31:48 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+08/29/2021 18:31:51 Started : UIM Login Sequence
+08/29/2021 18:31:51 Started : UIM process in NCW URL
+08/29/2021 18:31:52 Entering Username
+08/29/2021 18:32:22 Entering Username
+08/29/2021 18:32:23 Entering Password
+08/29/2021 18:32:33 UIM Login successful
+08/29/2021 18:32:33 Click on Parties
+08/29/2021 18:32:45 Adding Billing Account Number Field
+08/29/2021 18:33:08 Entering Billing Account Number :655239001
+08/29/2021 18:33:19 Storing the Parties in a datatable
+08/29/2021 18:33:21 No parties associated with the account number - 655239001
+08/29/2021 18:33:21 Start the process for the next account number in transaction data
+08/29/2021 18:33:21 Logout from UIM 
+08/29/2021 18:33:23 Started : UIM Login Sequence
+08/29/2021 18:33:23 Started : UIM process in NCE URL
+08/29/2021 18:33:54 Entering Username
+08/29/2021 18:33:55 Entering Password
+08/29/2021 18:34:07 UIM Login successful
+08/29/2021 18:34:07 Click on Parties
+08/29/2021 18:34:14 Adding Billing Account Number Field
+08/29/2021 18:34:37 Entering Billing Account Number :8347100017853972
+08/29/2021 18:34:49 Storing the Parties in a datatable
+08/29/2021 18:34:50 Loop through each party ID
+08/29/2021 18:34:50 Partie ID:22876434
+08/29/2021 18:34:50 Party Name :72532278_102612746
+08/29/2021 18:34:50 Click on Services
+08/29/2021 18:34:56 Enter Party name in party name field
+08/29/2021 18:35:03 Extracting the services into Datatable
+08/29/2021 18:35:04 Loop through each service ID
+08/29/2021 18:35:04 Click on Service ID : 22127623
+08/29/2021 18:35:04 Click on Service ID : 22127624
+08/29/2021 18:35:04 Logout from UIM 22127624
+08/29/2021 18:35:06 Started : SAT Sequence
+08/29/2021 18:35:06 SAT Login successful
+08/29/2021 18:35:06 Searching for BAN
+08/29/2021 18:35:14 Found Account number in Gen2 8347100017853972
+08/29/2021 18:35:19 Started SAT process in Gen 2 for 8347100017853972
+08/29/2021 18:35:35 No TV Services associated with the Account Number -  8347100017853972
+08/29/2021 18:35:46 Perform sync for Internet Service
+08/29/2021 18:36:33 SAT Login started
+08/29/2021 18:36:40 Logged into SAT
+08/29/2021 18:36:46 Started : UIM Login Sequence
+08/29/2021 18:36:46 Started : UIM process in NCE URL
+08/29/2021 18:37:18 Entering Username
+08/29/2021 18:37:19 Entering Password
+08/29/2021 18:37:29 UIM Login successful
+08/29/2021 18:37:29 Click on Parties
+08/29/2021 18:37:44 Adding Billing Account Number Field
+08/29/2021 18:38:07 Entering Billing Account Number :8347100017853972
+08/29/2021 18:38:19 Storing the Parties in a datatable
+08/29/2021 18:38:20 Loop through each party ID
+08/29/2021 18:38:20 Partie ID:22876434
+08/29/2021 18:38:20 Party Name :72532278_102612746
+08/29/2021 18:38:20 Click on Services
+08/29/2021 18:38:26 Enter Party name in party name field
+08/29/2021 18:38:33 Extracting the services into Datatable
+08/29/2021 18:38:34 Loop through each service ID
+08/29/2021 18:38:34 Click on Service ID : 22127623
+08/29/2021 18:38:34 Click on Service ID : 22127624
+08/29/2021 18:38:34 Logout from UIM 22127624
+08/29/2021 18:38:36 Started : SAT Sequence
+08/29/2021 18:38:36 SAT Login successful
+08/29/2021 18:38:36 Searching for BAN
+08/29/2021 18:38:43 Found Account number in Gen2 8347100017853972
+08/29/2021 18:38:48 Started SAT process in Gen 2 for 8347100017853972
+08/29/2021 18:39:04 No TV Services associated with the Account Number -  8347100017853972
+08/29/2021 18:39:15 Perform sync for Internet Service

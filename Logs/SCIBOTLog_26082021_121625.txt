@@ -1,0 +1,18 @@
+﻿The SCI BOT execution is started                                                                                  08/26/2021 12:16:25
+Read the Config file and saved all the data in dictionary variable                                            08/26/2021 12:16:25
+08/26/2021 12:16:29 SAT Login started
+08/26/2021 12:18:14 Started : SAT Sequence
+08/26/2021 12:18:14 SAT Login successful
+08/26/2021 12:18:14 Searching for BAN
+08/26/2021 12:19:21 Found Account number in Gen2 8347100017855936
+08/26/2021 12:19:40 Started SAT process in Gen 2 for 8347100017855936
+08/26/2021 12:20:11 Error: Failed to navigate TV Service, for 8347100017855936
+08/26/2021 12:20:42 Perform sync for Internet Service
+08/26/2021 12:22:16 Error: Account Sync was un successful for internet Service : 8347100017855936
+08/26/2021 12:22:51 SAT Login started
+08/26/2021 12:24:36 Started : SAT Sequence
+08/26/2021 12:24:36 SAT Login successful
+08/26/2021 12:24:36 Searching for BAN
+08/26/2021 12:25:46 Found Account number in Gen2 8347100017855936
+08/26/2021 12:25:58 Started SAT process in Gen 2 for 8347100017855936
+08/26/2021 12:26:29 Error: Failed to navigate TV Service, for 8347100017855936

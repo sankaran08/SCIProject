@@ -1,0 +1,14 @@
+﻿The SCI BOT execution is started                                                                                  08/28/2021 17:04:29
+Read the Config file and saved all the data in dictionary variable                                            08/28/2021 17:04:29
+08/28/2021 17:04:44 SAT Login started
+08/28/2021 17:05:05 Logged into SAT
+08/28/2021 17:05:22 Started : SAT Sequence
+08/28/2021 17:05:22 SAT Login successful
+08/28/2021 17:05:22 Searching for BAN
+08/28/2021 17:05:27 Found Account number in Gen2 8347100017855936
+08/28/2021 17:05:40 Started SAT process in Gen 2 for 8347100017855936
+08/28/2021 17:06:16 No TV Services associated with the Account Number -  8347100017855936
+08/28/2021 17:06:32 Perform sync for Internet Service
+08/28/2021 17:07:07 Account Sync was successful for internet Service : 8347100017855936
+08/28/2021 17:07:22 Perform Sync for WIFI Service
+Account Sync was successful for WIFI Service : 8347100017855936                                             08/28/2021 17:07:57

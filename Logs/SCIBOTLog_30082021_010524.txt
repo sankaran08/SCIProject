@@ -1,0 +1,208 @@
+﻿The SCI BOT execution is started                                                                                  08/30/2021 01:05:24
+Read the Config file and saved all the data in dictionary variable                                            08/30/2021 01:05:24
+08/30/2021 01:05:40 SAT Login started
+08/30/2021 01:05:53 Logged into SAT
+08/30/2021 01:06:00 Started : UIM Login Sequence
+08/30/2021 01:06:00 Started : UIM process in NCE URL
+08/30/2021 01:06:32 Entering Username
+08/30/2021 01:06:33 Entering Password
+08/30/2021 01:06:42 UIM Login successful
+08/30/2021 01:06:42 Click on Parties
+08/30/2021 01:06:49 Adding Billing Account Number Field
+08/30/2021 01:07:08 Entering Billing Account Number :8347100017854863
+08/30/2021 01:07:14 Storing the Parties in a datatable
+08/30/2021 01:07:15 No parties associated with the account number - 8347100017854863
+08/30/2021 01:07:15 Start the process for the next account number in transaction data
+08/30/2021 01:07:15 Logout from UIM 
+08/30/2021 01:07:18 Started : UIM Login Sequence
+08/30/2021 01:07:18 Started : UIM process in NCE URL
+08/30/2021 01:07:50 Entering Username
+08/30/2021 01:07:51 Entering Password
+08/30/2021 01:08:00 UIM Login successful
+08/30/2021 01:08:00 Click on Parties
+08/30/2021 01:08:13 Adding Billing Account Number Field
+08/30/2021 01:08:31 Entering Billing Account Number :8347100017853972
+08/30/2021 01:08:38 Storing the Parties in a datatable
+08/30/2021 01:08:39 Loop through each party ID
+08/30/2021 01:08:39 Partie ID:22876434
+08/30/2021 01:08:39 Party Name :72532278_102612746
+08/30/2021 01:08:39 Click on Services
+08/30/2021 01:08:45 Enter Party name in party name field
+08/30/2021 01:08:52 Extracting the services into Datatable
+08/30/2021 01:08:53 Loop through each service ID
+08/30/2021 01:08:53 Click on Service ID : 22127623
+08/30/2021 01:08:53 Service is in Pending Disconnect status, Bot will not perform any action  22127623
+08/30/2021 01:08:53 Click on Service ID : 22127624
+08/30/2021 01:08:53 Service is in Pending Disconnect status, Bot will not perform any action  22127624
+08/30/2021 01:08:53 Logout from UIM 22127624
+08/30/2021 01:08:55 Started : SAT Sequence
+08/30/2021 01:08:55 SAT Login successful
+08/30/2021 01:08:55 Searching for BAN
+08/30/2021 01:09:05 Found Account number in Gen2 8347100017853972
+08/30/2021 01:09:08 Started SAT process in Gen 2 for 8347100017853972
+08/30/2021 01:09:24 No TV Services associated with the Account Number -  8347100017853972
+08/30/2021 01:09:45 Error: Unale to find Sync&Provision Button for Internet Service
+08/30/2021 01:10:06 No Wifi services are associated with the Account Number - 8347100017853972
+08/30/2021 01:10:27 No Phone services are associated with the Account Number - 8347100017853972
+08/30/2021 01:10:27 BOT Execution completed for Gen2 for : 8347100017853972
+08/30/2021 01:10:29 Started : UIM Login Sequence
+08/30/2021 01:10:29 Started : UIM process in NCE URL
+08/30/2021 01:11:00 Entering Username
+08/30/2021 01:11:01 Entering Password
+08/30/2021 01:11:11 UIM Login successful
+08/30/2021 01:11:11 Click on Parties
+08/30/2021 01:11:17 Adding Billing Account Number Field
+08/30/2021 01:11:35 Entering Billing Account Number :8347100017855936
+08/30/2021 01:11:41 Storing the Parties in a datatable
+08/30/2021 01:11:42 No parties associated with the account number - 8347100017855936
+08/30/2021 01:11:42 Start the process for the next account number in transaction data
+08/30/2021 01:11:42 Logout from UIM 
+08/30/2021 01:11:45 Started : UIM Login Sequence
+08/30/2021 01:11:45 Started : UIM process in NCE URL
+08/30/2021 01:12:16 Entering Username
+08/30/2021 01:12:17 Entering Password
+08/30/2021 01:12:28 UIM Login successful
+08/30/2021 01:12:28 Click on Parties
+08/30/2021 01:12:40 Adding Billing Account Number Field
+08/30/2021 01:12:58 Entering Billing Account Number :8347100017855852
+08/30/2021 01:13:05 Storing the Parties in a datatable
+08/30/2021 01:13:06 Loop through each party ID
+08/30/2021 01:13:06 Partie ID:22876435
+08/30/2021 01:13:06 Party Name :66219779_68708170
+08/30/2021 01:13:06 Click on Services
+08/30/2021 01:13:11 Enter Party name in party name field
+08/30/2021 01:13:18 Extracting the services into Datatable
+08/30/2021 01:13:20 Loop through each service ID
+08/30/2021 01:13:20 Click on Service ID : 22127626
+08/30/2021 01:13:20 Service is in Pending Disconnect status, Bot will not perform any action  22127626
+08/30/2021 01:13:20 Logout from UIM 22127626
+08/30/2021 01:13:22 Started : SAT Sequence
+08/30/2021 01:13:22 SAT Login successful
+08/30/2021 01:13:22 Searching for BAN
+08/30/2021 01:13:29 Found Account number in Gen2 8347100017855852
+08/30/2021 01:13:45 Error: while processing the account numer 8347100017855852
+08/30/2021 01:13:55 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017855852
+08/30/2021 01:13:57 Started : UIM Login Sequence
+08/30/2021 01:13:57 Started : UIM process in NCE URL
+08/30/2021 01:14:29 Entering Username
+08/30/2021 01:14:30 Entering Password
+08/30/2021 01:14:40 UIM Login successful
+08/30/2021 01:14:40 Click on Parties
+08/30/2021 01:14:45 Adding Billing Account Number Field
+08/30/2021 01:15:03 Entering Billing Account Number :8347100017855480
+08/30/2021 01:15:10 Storing the Parties in a datatable
+08/30/2021 01:15:11 No parties associated with the account number - 8347100017855480
+08/30/2021 01:15:11 Start the process for the next account number in transaction data
+08/30/2021 01:15:11 Logout from UIM 
+08/30/2021 01:15:13 Started : UIM Login Sequence
+08/30/2021 01:15:13 Started : UIM process in NCE URL
+08/30/2021 01:15:45 Entering Username
+08/30/2021 01:15:46 Entering Password
+08/30/2021 01:16:17 Partial Response, Error in Logging into UIM
+08/30/2021 01:17:03 SAT Login started
+08/30/2021 01:17:14 Logged into SAT
+08/30/2021 01:17:21 Started : UIM Login Sequence
+08/30/2021 01:17:21 Started : UIM process in NCE URL
+08/30/2021 01:17:52 Entering Username
+08/30/2021 01:17:54 Entering Password
+08/30/2021 01:18:05 UIM Login successful
+08/30/2021 01:18:05 Click on Parties
+08/30/2021 01:18:19 Adding Billing Account Number Field
+08/30/2021 01:18:38 Entering Billing Account Number :8347100017856090
+08/30/2021 01:18:45 Storing the Parties in a datatable
+08/30/2021 01:18:46 Loop through each party ID
+08/30/2021 01:18:46 Partie ID:22876433
+08/30/2021 01:18:46 Party Name :72546596_102614753
+08/30/2021 01:18:46 Click on Services
+08/30/2021 01:18:52 Enter Party name in party name field
+08/30/2021 01:18:59 Extracting the services into Datatable
+08/30/2021 01:19:00 Loop through each service ID
+08/30/2021 01:19:00 Click on Service ID : 22127622
+08/30/2021 01:19:00 Service is in Pending Disconnect status, Bot will not perform any action  22127622
+08/30/2021 01:19:00 Logout from UIM 22127622
+08/30/2021 01:19:02 Started : SAT Sequence
+08/30/2021 01:19:02 SAT Login successful
+08/30/2021 01:19:02 Searching for BAN
+08/30/2021 01:19:09 Found Account number in Gen2 8347100017856090
+08/30/2021 01:19:25 Error: while processing the account numer 8347100017856090
+08/30/2021 01:19:35 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+08/30/2021 01:19:37 Started : UIM Login Sequence
+08/30/2021 01:19:37 Started : UIM process in NCW URL
+08/30/2021 01:19:38 Entering Username
+08/30/2021 01:20:09 Entering Username
+08/30/2021 01:20:10 Entering Password
+08/30/2021 01:20:41 Partial Response, Error in Logging into UIM
+08/30/2021 01:21:24 SAT Login started
+08/30/2021 01:21:37 Logged into SAT
+08/30/2021 01:21:43 Started : UIM Login Sequence
+08/30/2021 01:21:43 Started : UIM process in NCW URL
+08/30/2021 01:21:45 Entering Username
+08/30/2021 01:22:15 Entering Username
+08/30/2021 01:22:16 Entering Password
+08/30/2021 01:22:25 UIM Login successful
+08/30/2021 01:22:25 Click on Parties
+08/30/2021 01:22:32 Adding Billing Account Number Field
+08/30/2021 01:22:50 Entering Billing Account Number :655239001
+08/30/2021 01:22:57 Storing the Parties in a datatable
+08/30/2021 01:22:58 No parties associated with the account number - 655239001
+08/30/2021 01:22:58 Start the process for the next account number in transaction data
+08/30/2021 01:22:58 Logout from UIM 
+08/30/2021 01:23:00 Started : UIM Login Sequence
+08/30/2021 01:23:00 Started : UIM process in NCE URL
+08/30/2021 01:23:32 Entering Username
+08/30/2021 01:23:33 Entering Password
+08/30/2021 01:23:44 UIM Login successful
+08/30/2021 01:23:44 Click on Parties
+08/30/2021 01:23:53 Adding Billing Account Number Field
+08/30/2021 01:24:11 Entering Billing Account Number :8347100017853972
+08/30/2021 01:24:18 Storing the Parties in a datatable
+08/30/2021 01:24:19 Loop through each party ID
+08/30/2021 01:24:19 Partie ID:22876434
+08/30/2021 01:24:19 Party Name :72532278_102612746
+08/30/2021 01:24:19 Click on Services
+08/30/2021 01:24:25 Enter Party name in party name field
+08/30/2021 01:24:32 Extracting the services into Datatable
+08/30/2021 01:24:33 Loop through each service ID
+08/30/2021 01:24:33 Click on Service ID : 22127623
+08/30/2021 01:24:33 Service is in Pending Disconnect status, Bot will not perform any action  22127623
+08/30/2021 01:24:33 Click on Service ID : 22127624
+08/30/2021 01:24:33 Service is in Pending Disconnect status, Bot will not perform any action  22127624
+08/30/2021 01:24:33 Logout from UIM 22127624
+08/30/2021 01:24:35 Started : SAT Sequence
+08/30/2021 01:24:35 SAT Login successful
+08/30/2021 01:24:35 Searching for BAN
+08/30/2021 01:24:41 Found Account number in Gen2 8347100017853972
+08/30/2021 01:24:46 Started SAT process in Gen 2 for 8347100017853972
+08/30/2021 01:25:02 No TV Services associated with the Account Number -  8347100017853972
+08/30/2021 01:25:23 Error: Unale to find Sync&Provision Button for Internet Service
+08/30/2021 01:25:44 No Wifi services are associated with the Account Number - 8347100017853972
+08/30/2021 01:26:05 No Phone services are associated with the Account Number - 8347100017853972
+08/30/2021 01:26:05 BOT Execution completed for Gen2 for : 8347100017853972
+08/30/2021 01:26:06 Started : UIM Login Sequence
+08/30/2021 01:26:06 Started : UIM process in NCE URL
+08/30/2021 01:26:38 Entering Username
+08/30/2021 01:26:39 Entering Password
+08/30/2021 01:26:48 UIM Login successful
+08/30/2021 01:26:48 Click on Parties
+08/30/2021 01:26:54 Adding Billing Account Number Field
+08/30/2021 01:27:12 Entering Billing Account Number :8347100017854152
+08/30/2021 01:27:18 Storing the Parties in a datatable
+08/30/2021 01:27:19 No parties associated with the account number - 8347100017854152
+08/30/2021 01:27:19 Start the process for the next account number in transaction data
+08/30/2021 01:27:19 Logout from UIM 
+08/30/2021 01:27:22 Started : UIM Login Sequence
+08/30/2021 01:27:22 Started : UIM process in NCW URL
+08/30/2021 01:27:23 Entering Username
+08/30/2021 01:27:53 Entering Username
+08/30/2021 01:27:54 Entering Password
+08/30/2021 01:28:26 Partial Response, Error in Logging into UIM
+08/30/2021 01:28:27 Started : SAT Sequence
+08/30/2021 01:28:27 SAT Login successful
+08/30/2021 01:28:27 Searching for BAN
+08/30/2021 01:28:34 Found Account number in Gen2 654991301
+08/30/2021 01:28:46 Started SAT process in Gen 2 for 654991301
+08/30/2021 01:29:02 Error: Unale to find Sync&Provision Button for TV Service
+08/30/2021 01:29:23 Error: Unale to find Sync&Provision Button for Internet Service
+08/30/2021 01:29:44 No Wifi services are associated with the Account Number - 654991301
+08/30/2021 01:30:05 Error: Unale to find Sync&Provision Button for Phone Service
+08/30/2021 01:30:05 BOT Execution completed for Gen2 for : 654991301

@@ -1,0 +1,2 @@
+﻿The SCI BOT execution is started                                                                                  08/20/2021 19:43:56
+Read the Config file and saved all the data in dictionary variable                                            08/20/2021 19:43:56

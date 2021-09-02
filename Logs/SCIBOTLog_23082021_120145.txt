@@ -1,0 +1,6 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 12:01:45
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 12:01:45
+08/23/2021 12:01:46 Started : Login UIM Sequence
+08/23/2021 12:02:03 Started : Login UIM Sequence
+08/23/2021 12:02:19 Started : Login UIM Sequence
+08/23/2021 12:02:35 Started : Login UIM Sequence

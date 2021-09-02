@@ -1,0 +1,116 @@
+﻿09/01/2021 18:38:10 The SCI BOT execution is started
+09/01/2021 18:38:10 Reading Transaction Data from Transaction Excel
+09/01/2021 18:38:10 Recorded all the Transaction data into a datatable
+09/01/2021 18:38:14 SAT Login started
+09/01/2021 18:38:51 Entering SAT Username
+09/01/2021 18:38:52 Entering SAT Password
+09/01/2021 18:39:00 Count of transaction data 4
+09/01/2021 18:39:00 Processing Account Number 8347100017856090
+09/01/2021 18:39:00Processing Transaction Number: 0
+09/01/2021 18:39:01 Started : UIM Login Sequence
+09/01/2021 18:39:01 Read UIM Login Credentials
+09/01/2021 18:39:16 Started : UIM process in NCE URL
+09/01/2021 18:39:17 Closing Restore pop-up
+09/01/2021 18:39:27 Entering Username
+09/01/2021 18:39:28 Entering Password
+09/01/2021 18:40:10 Started : UIM process in NCE URL
+09/01/2021 18:40:11 Closing Restore pop-up
+09/01/2021 18:40:21 Entering Username
+09/01/2021 18:40:22 Entering Password
+09/01/2021 18:41:04 Started : UIM process in NCE URL
+09/01/2021 18:41:05 Closing Restore pop-up
+09/01/2021 18:41:15 Entering Username
+09/01/2021 18:41:16 Entering Password
+09/01/2021 18:41:28 UIM Login successful
+09/01/2021 18:41:28 Click on Parties
+09/01/2021 18:41:40 Adding Billing Account Number Field
+09/01/2021 18:41:58 Entering Billing Account Number :8347100017856090
+09/01/2021 18:42:04 Storing the Parties in a datatable
+09/01/2021 18:42:05 Loop through each party ID
+09/01/2021 18:42:05 Partie ID:12320391
+09/01/2021 18:42:05 Party Name :72546596_102614753
+09/01/2021 18:42:05 Click on Services
+09/01/2021 18:42:11 Enter Party name in party name field
+09/01/2021 18:42:18 Extracting the services into Datatable
+09/01/2021 18:42:19 Loop through each service ID
+09/01/2021 18:42:19 Click on Service ID : 10866661
+09/01/2021 18:42:19 Status is Ready For Install 10866661
+09/01/2021 18:42:19 Click on Service ID : 10866661
+09/01/2021 18:42:37 Cancelled the Ready for install service 10866661
+09/01/2021 18:42:48 Logout from UIM 10866661
+09/01/2021 18:42:49 Started : SAT Sequence
+09/01/2021 18:42:49 SAT Login successful
+09/01/2021 18:42:49 Searching for BAN
+09/01/2021 18:42:54 Found Account number in Gen2 8347100017856090
+09/01/2021 18:43:40 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090
+09/01/2021 18:43:42 Count of transaction data 4
+09/01/2021 18:43:42 Processing Account Number 8347100017855936
+09/01/2021 18:43:42Processing Transaction Number: 1
+09/01/2021 18:43:42 Started : UIM Login Sequence
+09/01/2021 18:43:42 Read UIM Login Credentials
+09/01/2021 18:43:52 Started : UIM process in NCE URL
+09/01/2021 18:43:53 Closing Restore pop-up
+09/01/2021 18:44:03 Entering Username
+09/01/2021 18:44:04 Entering Password
+09/01/2021 18:44:23 UIM Login successful
+09/01/2021 18:44:23 Click on Parties
+09/01/2021 18:44:35 Adding Billing Account Number Field
+09/01/2021 18:44:53 Entering Billing Account Number :8347100017855936
+09/01/2021 18:44:59 Storing the Parties in a datatable
+09/01/2021 18:45:00 Loop through each party ID
+09/01/2021 18:45:00 Partie ID:11945191
+09/01/2021 18:45:00 Party Name :66219922_68708217
+09/01/2021 18:45:00 Click on Services
+09/01/2021 18:45:06 Enter Party name in party name field
+09/01/2021 18:45:13 Extracting the services into Datatable
+09/01/2021 18:45:14 Loop through each service ID
+09/01/2021 18:45:14 Click on Service ID : 10714010
+09/01/2021 18:45:14 Service is in Pending Disconnect status, Bot will not perform any action  10714010
+09/01/2021 18:45:14 Logout from UIM 10714010
+09/01/2021 18:45:16 Started : SAT Sequence
+09/01/2021 18:45:16 SAT Login successful
+09/01/2021 18:45:16 Searching for BAN
+09/01/2021 18:45:23 Found Account number in Gen2 8347100017855936
+09/01/2021 18:45:34 Started SAT process in Gen 2 for 8347100017855936
+09/01/2021 18:45:55 No TV Services associated with the Account Number -  8347100017855936
+09/01/2021 18:46:16 No Internet Services are associated with Account Number - 8347100017855936
+09/01/2021 18:46:37 Error: Unale to find Sync&Provision Button for Wifi Service
+09/01/2021 18:46:38 Count of transaction data 4
+09/01/2021 18:46:38 Processing Account Number 8347100017853972
+09/01/2021 18:46:38Processing Transaction Number: 2
+09/01/2021 18:46:38 Started : UIM Login Sequence
+09/01/2021 18:46:38 Read UIM Login Credentials
+09/01/2021 18:46:48 Started : UIM process in NCE URL
+09/01/2021 18:46:49 Closing Restore pop-up
+09/01/2021 18:46:59 Entering Username
+09/01/2021 18:47:00 Entering Password
+09/01/2021 18:47:42 Started : UIM process in NCE URL
+09/01/2021 18:47:43 Closing Restore pop-up
+09/01/2021 18:47:53 Entering Username
+09/01/2021 18:47:54 Entering Password
+09/01/2021 18:48:18 UIM Login successful
+09/01/2021 18:48:18 Click on Parties
+09/01/2021 18:48:33 Adding Billing Account Number Field
+09/01/2021 18:48:51 Entering Billing Account Number :8347100017853972
+09/01/2021 18:48:58 Storing the Parties in a datatable
+09/01/2021 18:48:59 No parties associated with the account number - 8347100017853972
+09/01/2021 18:48:59 Start the process for the next account number in transaction data
+09/01/2021 18:48:59 Logout from UIM 
+09/01/2021 18:49:00 Count of transaction data 4
+09/01/2021 18:49:00 Processing Account Number 655239001
+09/01/2021 18:49:00Processing Transaction Number: 3
+09/01/2021 18:49:01 Started : UIM Login Sequence
+09/01/2021 18:49:01 Read UIM Login Credentials
+09/01/2021 18:49:11 Started : UIM process in NCW URL
+09/01/2021 18:49:12 Closing Restore pop-up
+09/01/2021 18:49:22 Entering Username
+09/01/2021 18:49:23 Entering Password
+09/01/2021 18:49:38 UIM Login successful
+09/01/2021 18:49:38 Click on Parties
+09/01/2021 18:49:49 Adding Billing Account Number Field
+09/01/2021 18:50:07 Entering Billing Account Number :655239001
+09/01/2021 18:50:13 Storing the Parties in a datatable
+09/01/2021 18:50:14 No parties associated with the account number - 655239001
+09/01/2021 18:50:14 Start the process for the next account number in transaction data
+09/01/2021 18:50:14 Logout from UIM 
+09/01/2021 18:50:15 Process finished due to no more transaction data

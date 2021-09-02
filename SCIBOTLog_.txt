@@ -1,0 +1,205 @@
+﻿08/28/2021 16:51:31 Started : SAT Sequence
+08/28/2021 16:51:31 SAT Login successful
+08/28/2021 16:51:31 Searching for BAN
+08/31/2021 16:14:05 Reading Configaration file
+08/31/2021 16:14:06 Killing processes...
+08/31/2021 16:14:06 Killed Excel Application
+08/31/2021 16:14:06 Killed Chrome Application
+08/31/2021 16:14:06 Killed Notepad Application
+08/31/2021 16:30:13 Reading Configaration file
+08/31/2021 16:30:14 Killing processes...
+08/31/2021 16:30:14 Killed Excel Application
+08/31/2021 16:30:14 Killed Chrome Application
+08/31/2021 16:30:14 Killed Notepad Application
+08/31/2021 17:03:05 Reading Configaration file
+08/31/2021 17:03:06 Killing processes...
+08/31/2021 17:03:06 Killed Excel Application
+08/31/2021 17:03:06 Killed Chrome Application
+08/31/2021 17:03:06 Killed Notepad Application
+08/31/2021 17:21:39 Reading Configaration file
+08/31/2021 17:21:39 Killing processes...
+08/31/2021 17:21:39 Killed Excel Application
+08/31/2021 17:21:39 Killed Chrome Application
+08/31/2021 17:21:39 Killed Notepad Application
+08/31/2021 17:28:56 Reading Configaration file
+08/31/2021 17:28:56 Killing processes...
+08/31/2021 17:28:56 Killed Excel Application
+08/31/2021 17:28:56 Killed Chrome Application
+08/31/2021 17:28:56 Killed Notepad Application
+08/31/2021 17:52:00 Reading Configaration file
+08/31/2021 17:52:01 Killing processes...
+08/31/2021 17:52:01 Killed Excel Application
+08/31/2021 17:52:01 Killed Chrome Application
+08/31/2021 17:52:01 Killed Notepad Application
+08/31/2021 17:59:53 Reading Configaration file
+08/31/2021 17:59:54 Killing processes...
+08/31/2021 17:59:54 Killed Excel Application
+08/31/2021 17:59:54 Killed Chrome Application
+08/31/2021 17:59:54 Killed Notepad Application
+08/31/2021 18:08:57 Reading Configaration file
+08/31/2021 18:08:57 Killing processes...
+08/31/2021 18:08:57 Killed Excel Application
+08/31/2021 18:08:58 Killed Chrome Application
+08/31/2021 18:08:58 Killed Notepad Application
+08/31/2021 18:39:39 Reading Configaration file
+08/31/2021 18:39:40 Killing processes...
+08/31/2021 18:39:40 Killed Excel Application
+08/31/2021 18:39:40 Killed Chrome Application
+08/31/2021 18:39:40 Killed Notepad Application
+08/31/2021 18:50:22 Reading Configaration file
+08/31/2021 18:50:23 Killing processes...
+08/31/2021 18:50:23 Killed Excel Application
+08/31/2021 18:50:23 Killed Chrome Application
+08/31/2021 18:50:23 Killed Notepad Application
+08/31/2021 21:12:21 Reading Configaration file
+08/31/2021 21:12:22 Killing processes...
+08/31/2021 21:12:22 Killed Excel Application
+08/31/2021 21:12:22 Killed Chrome Application
+08/31/2021 21:12:22 Killed Notepad Application
+08/31/2021 22:27:37 Reading Configaration file
+08/31/2021 22:27:38 Killing processes...
+08/31/2021 22:27:38 Killed Excel Application
+08/31/2021 22:27:40 Killed Chrome Application
+08/31/2021 22:27:40 Killed Notepad Application
+08/31/2021 22:31:31 Reading Configaration file
+08/31/2021 22:31:31 Killing processes...
+08/31/2021 22:31:31 Killed Excel Application
+08/31/2021 22:31:32 Killed Chrome Application
+08/31/2021 22:31:32 Killed Notepad Application
+08/31/2021 22:47:33 Reading Configaration file
+08/31/2021 22:47:35 Killing processes...
+08/31/2021 22:47:35 Killed Excel Application
+08/31/2021 22:47:35 Killed Chrome Application
+08/31/2021 22:47:35 Killed Notepad Application
+08/31/2021 22:58:02 Reading Configaration file
+08/31/2021 22:58:03 Killing processes...
+08/31/2021 22:58:03 Killed Excel Application
+08/31/2021 22:58:04 Killed Chrome Application
+08/31/2021 22:58:04 Killed Notepad Application
+09/01/2021 00:07:00 Reading Configaration file
+09/01/2021 00:07:00 Killing processes...
+09/01/2021 00:07:00 Killed Excel Application
+09/01/2021 00:07:00 Killed Chrome Application
+09/01/2021 00:07:01 Killed Notepad Application
+09/01/2021 00:13:59 Reading Configaration file
+09/01/2021 00:14:00 Killing processes...
+09/01/2021 00:14:00 Killed Excel Application
+09/01/2021 00:14:01 Killed Chrome Application
+09/01/2021 00:14:01 Killed Notepad Application
+09/01/2021 00:29:58 Reading Configaration file
+09/01/2021 00:29:59 Killing processes...
+09/01/2021 00:29:59 Killed Excel Application
+09/01/2021 00:29:59 Killed Chrome Application
+09/01/2021 00:29:59 Killed Notepad Application
+09/01/2021 00:32:09 Reading Configaration file
+09/01/2021 00:32:10 Killing processes...
+09/01/2021 00:32:10 Killed Excel Application
+09/01/2021 00:32:10 Killed Chrome Application
+09/01/2021 00:32:10 Killed Notepad Application
+09/01/2021 11:45:18 Reading Configaration file
+09/01/2021 11:45:19 Killing processes...
+09/01/2021 11:45:19 Killed Excel Application
+09/01/2021 11:45:19 Killed Chrome Application
+09/01/2021 11:45:19 Killed Notepad Application
+09/01/2021 11:49:23 Reading Configaration file
+09/01/2021 11:49:24 Killing processes...
+09/01/2021 11:49:24 Killed Excel Application
+09/01/2021 11:49:24 Killed Chrome Application
+09/01/2021 11:49:24 Killed Notepad Application
+09/01/2021 11:52:41 Reading Configaration file
+09/01/2021 11:53:08 Reading Configaration file
+09/01/2021 11:53:09 Killing processes...
+09/01/2021 11:53:09 Killed Excel Application
+09/01/2021 11:53:09 Killed Chrome Application
+09/01/2021 11:53:09 Killed Notepad Application
+09/01/2021 11:57:55 Reading Configaration file
+09/01/2021 11:58:10 Reading Configaration file
+09/01/2021 11:58:11 Killing processes...
+09/01/2021 11:58:11 Killed Excel Application
+09/01/2021 11:58:11 Killed Chrome Application
+09/01/2021 11:58:11 Killed Notepad Application
+09/01/2021 12:03:35 Reading Configaration file
+09/01/2021 12:03:36 Killing processes...
+09/01/2021 12:03:36 Killed Excel Application
+09/01/2021 12:03:36 Killed Chrome Application
+09/01/2021 12:03:36 Killed Notepad Application
+09/01/2021 12:29:32 Reading Configaration file
+09/01/2021 12:29:33 Killing processes...
+09/01/2021 12:29:33 Killed Excel Application
+09/01/2021 12:29:34 Killed Chrome Application
+09/01/2021 12:29:34 Killed Notepad Application
+09/01/2021 13:13:30 Reading Configaration file
+09/01/2021 13:13:31 Killing processes...
+09/01/2021 13:13:31 Killed Excel Application
+09/01/2021 13:13:31 Killed Chrome Application
+09/01/2021 13:13:31 Killed Notepad Application
+09/01/2021 15:46:35 Reading Configaration file
+09/01/2021 15:46:35 Killing processes...
+09/01/2021 15:46:35 Killed Excel Application
+09/01/2021 15:46:36 Killed Chrome Application
+09/01/2021 15:46:36 Killed Notepad Application
+09/01/2021 15:51:11 Reading Configaration file
+09/01/2021 15:51:12 Killing processes...
+09/01/2021 15:51:12 Killed Excel Application
+09/01/2021 15:51:12 Killed Chrome Application
+09/01/2021 15:51:12 Killed Notepad Application
+09/01/2021 16:21:30 Reading Configaration file
+09/01/2021 16:21:31 Killing processes...
+09/01/2021 16:21:31 Killed Excel Application
+09/01/2021 16:21:31 Killed Chrome Application
+09/01/2021 16:21:31 Killed Notepad Application
+09/01/2021 16:22:03 Reading Configaration file
+09/01/2021 16:22:04 Killing processes...
+09/01/2021 16:22:04 Killed Excel Application
+09/01/2021 16:22:04 Killed Chrome Application
+09/01/2021 16:22:04 Killed Notepad Application
+09/01/2021 16:38:12 Reading Configaration file
+09/01/2021 16:38:13 Killing processes...
+09/01/2021 16:38:13 Killed Excel Application
+09/01/2021 16:38:13 Killed Chrome Application
+09/01/2021 16:38:13 Killed Notepad Application
+09/01/2021 16:44:08 Reading Configaration file
+09/01/2021 16:44:09 Killing processes...
+09/01/2021 16:44:09 Killed Excel Application
+09/01/2021 16:44:09 Killed Chrome Application
+09/01/2021 16:44:09 Killed Notepad Application
+09/01/2021 16:48:26 Reading Configaration file
+09/01/2021 16:48:26 Killing processes...
+09/01/2021 16:48:26 Killed Excel Application
+09/01/2021 16:48:27 Killed Chrome Application
+09/01/2021 16:48:27 Killed Notepad Application
+09/01/2021 16:49:49 Reading Configaration file
+09/01/2021 16:49:50 Killing processes...
+09/01/2021 16:49:50 Killed Excel Application
+09/01/2021 16:49:50 Killed Chrome Application
+09/01/2021 16:49:50 Killed Notepad Application
+09/01/2021 17:08:57 Reading Configaration file
+09/01/2021 17:08:58 Killing processes...
+09/01/2021 17:08:58 Killed Excel Application
+09/01/2021 17:08:58 Killed Chrome Application
+09/01/2021 17:08:58 Killed Notepad Application
+09/01/2021 17:14:31 Reading Configaration file
+09/01/2021 17:14:32 Killing processes...
+09/01/2021 17:14:32 Killed Excel Application
+09/01/2021 17:14:32 Killed Chrome Application
+09/01/2021 17:14:32 Killed Notepad Application
+09/01/2021 17:22:53 Reading Configaration file
+09/01/2021 17:22:53 Killing processes...
+09/01/2021 17:22:53 Killed Excel Application
+09/01/2021 17:22:53 Killed Chrome Application
+09/01/2021 17:22:53 Killed Notepad Application
+09/01/2021 17:27:23 Reading Configaration file
+09/01/2021 17:27:24 Killing processes...
+09/01/2021 17:27:24 Killed Excel Application
+09/01/2021 17:27:24 Killed Chrome Application
+09/01/2021 17:27:25 Killed Notepad Application
+09/01/2021 18:38:09 Reading Configaration file
+09/01/2021 18:38:09 Killing processes...
+09/01/2021 18:38:09 Killed Excel Application
+09/01/2021 18:38:09 Killed Chrome Application
+09/01/2021 18:38:09 Killed Notepad Application
+09/01/2021 19:34:30 Reading Configaration file
+09/01/2021 19:34:31 Killing processes...
+09/01/2021 19:34:31 Killed Excel Application
+09/01/2021 19:34:31 Killed Chrome Application
+09/01/2021 19:34:31 Killed Notepad Application

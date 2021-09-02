@@ -1,0 +1,14 @@
+﻿The SCI BOT execution is started                                                                                  08/20/2021 20:45:57
+Read the Config file and saved all the data in dictionary variable                                            08/20/2021 20:45:57
+Audit Service API Request Sent                                                                                08/20/2021 20:46:18
+Audit Service API Error Response received.                                                                          08/20/2021 20:46:18
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [[APO_DLPQS_10001] :: [DEVICE_DETAILS_NOT_FOUND_IN_DLPQS]]                                                                          08/20/2021 20:46:18
+Audit Service API Request Sent                                                                                08/20/2021 20:46:30
+Audit Service API Error Response received.                                                                          08/20/2021 20:46:30
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [null]                                                                          08/20/2021 20:46:30
+Audit Service API Request Sent                                                                                08/20/2021 20:46:49
+Audit Service API Error Response received.                                                                          08/20/2021 20:46:49
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [[APO_DLPQS_10001] :: [DEVICE_DETAILS_NOT_FOUND_IN_DLPQS]]                                                                          08/20/2021 20:46:49
+Audit Service API Request Sent                                                                                08/20/2021 20:46:53
+Audit Service API Error Response received.                                                                          08/20/2021 20:46:53
+Error - Failed retrieving BILLER, UIM, BPS or LEASE data cause [null] message [400 null]                                                                          08/20/2021 20:46:53

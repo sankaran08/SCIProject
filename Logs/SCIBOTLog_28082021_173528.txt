@@ -1,0 +1,46 @@
+﻿The SCI BOT execution is started                                                                                  08/28/2021 17:35:28
+Read the Config file and saved all the data in dictionary variable                                            08/28/2021 17:35:28
+08/28/2021 17:35:40 SAT Login started
+08/28/2021 17:36:00 Logged into SAT
+08/28/2021 17:36:07 Started : SAT Sequence
+08/28/2021 17:36:07 SAT Login successful
+08/28/2021 17:36:07 Searching for BAN
+08/28/2021 17:36:12 Found Account number in Gen2 8347100017855936
+08/28/2021 17:36:23 Started SAT process in Gen 2 for 8347100017855936
+08/28/2021 17:36:40 No TV Services associated with the Account Number -  8347100017855936
+08/28/2021 17:36:46 Perform sync for Internet Service
+08/28/2021 17:37:20 Account Sync was successful for internet Service : 8347100017855936
+08/28/2021 17:37:26 Perform Sync for WIFI Service
+Account Sync was successful for WIFI Service : 8347100017855936                                             08/28/2021 17:38:01
+08/28/2021 17:38:17 Error: Unale to find Sync&Provision Button for Phone Service
+08/28/2021 17:38:17 BOT Execution completed for Gen2 for : 8347100017855936
+08/28/2021 17:38:19 Started : SAT Sequence
+08/28/2021 17:38:19 SAT Login successful
+08/28/2021 17:38:19 Searching for BAN
+08/28/2021 17:38:24 Found Account number in Gen2 8347100017855852
+08/28/2021 17:38:40 Error: while processing the account numer 8347100017855852
+08/28/2021 17:38:50 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017855852
+08/28/2021 17:38:52 Started : SAT Sequence
+08/28/2021 17:38:52 SAT Login successful
+08/28/2021 17:38:52 Searching for BAN
+08/28/2021 17:38:57 Found Account number in Gen2 8347100017855480
+08/28/2021 17:39:06 Started SAT process in Gen 2 for 8347100017855480
+08/28/2021 17:39:12 Perform sync for TV/Video Service
+08/28/2021 17:39:46 Account Sync was successful for TV Service :8347100017855480
+08/28/2021 17:40:03 No Internet Services are associated with Account Number - 8347100017855480
+08/28/2021 17:40:09 Perform Sync for WIFI Service
+Error: Account Sync was un successful for WIFI Service : 8347100017855480                                   08/28/2021 17:40:53
+08/28/2021 17:41:10 No Phone services are associated with the Account Number - 8347100017855480
+08/28/2021 17:41:10 BOT Execution completed for Gen2 for : 8347100017855480
+08/28/2021 17:41:11 Started : SAT Sequence
+08/28/2021 17:41:11 SAT Login successful
+08/28/2021 17:41:11 Searching for BAN
+08/28/2021 17:41:18 Found Account number in Gen2 8347100017856223
+08/28/2021 17:41:34 Error: while processing the account numer 8347100017856223
+08/28/2021 17:41:44 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856223
+08/28/2021 17:41:46 Started : SAT Sequence
+08/28/2021 17:41:46 SAT Login successful
+08/28/2021 17:41:46 Searching for BAN
+08/28/2021 17:41:55 Found Account number in Gen2 8347100017856090
+08/28/2021 17:42:11 Error: while processing the account numer 8347100017856090
+08/28/2021 17:42:21 Error: No Services or devices in Biller, UIM or BPS for this account.  8347100017856090

@@ -1,0 +1,25 @@
+﻿The SCI BOT execution is started                                                                                  08/29/2021 18:15:07
+Read the Config file and saved all the data in dictionary variable                                            08/29/2021 18:15:07
+08/29/2021 18:15:25 SAT Login started
+08/29/2021 18:16:20 Started : UIM Login Sequence
+08/29/2021 18:16:20 Started : UIM Login Sequence
+08/29/2021 18:16:20 Started : UIM process in NCE URL
+08/29/2021 18:16:51 Entering Username
+08/29/2021 18:16:53 Entering Password
+08/29/2021 18:17:05 UIM Login successful
+08/29/2021 18:17:05 Click on Parties
+08/29/2021 18:17:12 Adding Billing Account Number Field
+08/29/2021 18:17:35 Entering Billing Account Number :8347100017854863
+08/29/2021 18:17:46 Storing the Parties in a datatable
+08/29/2021 18:17:47 No parties associated with the account number - 8347100017854863
+08/29/2021 18:17:47 Start the process for the next account number in transaction data
+08/29/2021 18:17:47 Logout from UIM 
+08/29/2021 18:17:51 Started : UIM Login Sequence
+08/29/2021 18:17:51 Started : UIM Login Sequence
+08/29/2021 18:17:51 Started : UIM process in NCE URL
+08/29/2021 18:18:22 Entering Username
+08/29/2021 18:18:23 Entering Password
+08/29/2021 18:19:05 Started : SAT Sequence
+08/29/2021 18:19:05 SAT Login successful
+08/29/2021 18:19:05 Searching for BAN
+08/29/2021 18:19:13 Found Account number in Gen2 8347100017856223

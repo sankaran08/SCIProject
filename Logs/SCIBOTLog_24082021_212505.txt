@@ -1,0 +1,15 @@
+﻿The SCI BOT execution is started                                                                                  08/24/2021 21:25:05
+Read the Config file and saved all the data in dictionary variable                                            08/24/2021 21:25:05
+08/24/2021 21:25:08 Started : UIM Sequence - closing if browser is opened
+08/24/2021 21:25:38 Started : UIM Login Sequence
+08/24/2021 21:25:38 Started : UIM Login Sequence
+08/24/2021 21:25:49 Started : UIM process in NCE URL
+08/24/2021 21:25:52 Entering Username
+08/24/2021 21:26:34 Entering Username
+08/24/2021 21:27:16 Entering Username
+08/24/2021 21:27:57 Entering Username
+08/24/2021 21:28:41 Started : UIM Sequence - closing if browser is opened
+08/24/2021 21:29:11 Started : UIM Login Sequence
+08/24/2021 21:29:11 Started : UIM Login Sequence
+08/24/2021 21:29:16 Started : UIM process in NCE URL
+08/24/2021 21:29:19 Entering Username

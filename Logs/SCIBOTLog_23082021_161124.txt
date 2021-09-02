@@ -1,0 +1,36 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 16:11:24
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 16:11:24
+08/23/2021 16:11:32 Entering Username to login UIM
+08/23/2021 16:11:39 Entering Password
+08/23/2021 16:12:03 Started : Login UIM Sequence
+08/23/2021 16:12:04 Click on Parties
+08/23/2021 16:12:27 Adding Billing Account Number Field
+08/23/2021 16:12:52 Entering Billing Account Number :8347100017855936
+08/23/2021 16:13:05 Storing the Parties in a datatable
+08/23/2021 16:13:09 No parties associated with the account number - 8347100017855936
+08/23/2021 16:13:09 Start the process for the next account number in transaction data
+08/23/2021 16:14:54 Started : Login UIM Sequence
+08/23/2021 16:14:56 Click on Parties
+08/23/2021 16:15:37 Adding Billing Account Number Field
+08/23/2021 16:16:01 Entering Billing Account Number :8347100017855852
+08/23/2021 16:16:14 Storing the Parties in a datatable
+08/23/2021 16:16:18 Loop through each party ID
+08/23/2021 16:16:19 Partie ID:22876435
+08/23/2021 16:16:21 Party Name :66219779_68708170
+08/23/2021 16:16:22 Click on Services
+08/23/2021 16:16:34 Enter Party name in party name field
+08/23/2021 16:16:47 Extracting the services into Datatable
+08/23/2021 16:16:52 Loop through each service ID
+08/23/2021 16:16:54 Click on Service ID : 22127626
+08/23/2021 16:16:54 Status of 22127626 is In service
+08/23/2021 16:17:12 Click on Action
+08/23/2021 16:17:18 Click on Disconnect
+08/23/2021 16:17:28 Click on Complete
+08/23/2021 16:17:30 Disconnection process is completed for 22127626
+08/23/2021 16:17:57 Started : Login UIM Sequence
+08/23/2021 16:17:58 Click on Parties
+08/23/2021 16:18:22 Adding Billing Account Number Field
+08/23/2021 16:18:47 Entering Billing Account Number :8347100017855480
+08/23/2021 16:19:59 Storing the Parties in a datatable
+08/23/2021 16:20:01 No parties associated with the account number - 8347100017855480
+08/23/2021 16:20:02 Start the process for the next account number in transaction data

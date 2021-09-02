@@ -1,0 +1,42 @@
+﻿The SCI BOT execution is started                                                                                  08/24/2021 16:59:15
+Read the Config file and saved all the data in dictionary variable                                            08/24/2021 16:59:15
+08/24/2021 16:59:46 Started : UIM Sequence
+08/24/2021 16:59:46 Started : UIM process in NCE URL
+08/24/2021 16:59:49 Entering Username
+08/24/2021 17:00:09 Entering Password
+08/24/2021 17:00:20 Click on Parties
+08/24/2021 17:00:40 Adding Billing Account Number Field
+08/24/2021 17:01:03 Entering Billing Account Number :8347100017855936
+08/24/2021 17:01:14 Storing the Parties in a datatable
+08/24/2021 17:01:15 No parties associated with the account number - 8347100017855936
+08/24/2021 17:01:15 Start the process for the next account number in transaction data
+08/24/2021 17:01:16 Started : UIM Sequence
+08/24/2021 17:01:16 Started : UIM process in NCE URL
+08/24/2021 17:01:18 Entering Username
+08/24/2021 17:01:26 Entering Password
+08/24/2021 17:01:37 Click on Parties
+08/24/2021 17:02:18 Adding Billing Account Number Field
+08/24/2021 17:02:40 Entering Billing Account Number :8347100017855852
+08/24/2021 17:02:51 Storing the Parties in a datatable
+08/24/2021 17:02:52 Loop through each party ID
+08/24/2021 17:02:52 Partie ID:22876435
+08/24/2021 17:02:52 Party Name :66219779_68708170
+08/24/2021 17:02:52 Click on Services
+08/24/2021 17:03:02 Enter Party name in party name field
+08/24/2021 17:03:14 Extracting the services into Datatable
+08/24/2021 17:03:15 Loop through each service ID
+08/24/2021 17:03:15 Click on Service ID : 22127626
+08/24/2021 17:03:16 Started : UIM Sequence
+08/24/2021 17:03:16 Started : UIM process in NCE URL
+08/24/2021 17:03:18 Entering Username
+08/24/2021 17:03:26 Entering Password
+08/24/2021 17:03:36 Click on Parties
+08/24/2021 17:03:57 Adding Billing Account Number Field
+08/24/2021 17:04:19 Entering Billing Account Number :8347100017855480
+08/24/2021 17:04:30 Storing the Parties in a datatable
+08/24/2021 17:04:31 No parties associated with the account number - 8347100017855480
+08/24/2021 17:04:31 Start the process for the next account number in transaction data
+08/24/2021 17:04:32 Started : UIM Sequence
+08/24/2021 17:05:03 Started : UIM Sequence
+08/24/2021 17:05:03 Started : UIM process in NCE URL
+08/24/2021 17:05:05 Entering Username

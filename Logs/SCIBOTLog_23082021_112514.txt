@@ -1,0 +1,16 @@
+﻿The SCI BOT execution is started                                                                                  08/23/2021 11:25:14
+Read the Config file and saved all the data in dictionary variable                                            08/23/2021 11:25:14
+Audit Service API Request Sent                                                                                08/23/2021 11:25:19
+Audit Service API Request Sent                                                                                08/23/2021 11:25:25
+Audit Service API Request Sent                                                                                08/23/2021 11:25:29
+Audit Service API Request Sent                                                                                08/23/2021 11:25:34
+Audit Service API Request Sent                                                                                08/23/2021 11:25:39
+Audit Service API Request Sent                                                                                08/23/2021 11:25:44
+Audit Service API Request Sent                                                                                08/23/2021 11:25:49
+Audit Service API Request Sent                                                                                08/23/2021 11:25:54
+Audit Service API Request Sent                                                                                08/23/2021 11:25:59
+Audit Service API Request Sent                                                                                08/23/2021 11:26:04
+Audit Service API Request Sent                                                                                08/23/2021 11:26:09
+Audit Service API Request Sent                                                                                08/23/2021 11:26:14
+Audit Service API Request Sent                                                                                08/23/2021 11:26:19
+Audit Service API Request Sent                                                                                08/23/2021 11:26:24

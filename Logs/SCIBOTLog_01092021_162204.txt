@@ -1,0 +1,101 @@
+﻿09/01/2021 16:22:04 The SCI BOT execution is started
+09/01/2021 16:22:04 Reading Transaction Data from Transaction Excel
+09/01/2021 16:22:04 Recorded all the Transaction data into a datatable
+09/01/2021 16:22:08 SAT Login started
+09/01/2021 16:22:39 Logged into SAT
+09/01/2021 16:22:45 Count of transaction data 4
+09/01/2021 16:22:45 Processing Account Number 8347100017856090
+09/01/2021 16:22:45Processing Transaction Number: 0
+09/01/2021 16:22:48 Started : UIM Login Sequence
+09/01/2021 16:22:48 Read UIM Login Credentials
+09/01/2021 16:22:48 Started : UIM process in NCE URL
+09/01/2021 16:22:49 Closing Restore pop-up
+09/01/2021 16:22:59 Entering Username
+09/01/2021 16:23:01 Entering Password
+09/01/2021 16:23:43 Started : UIM process in NCE URL
+09/01/2021 16:23:44 Closing Restore pop-up
+09/01/2021 16:23:54 Entering Username
+09/01/2021 16:23:55 Entering Password
+09/01/2021 16:24:38 Started : UIM process in NCE URL
+09/01/2021 16:24:39 Closing Restore pop-up
+09/01/2021 16:24:49 Entering Username
+09/01/2021 16:24:50 Entering Password
+09/01/2021 16:25:06 UIM Login successful
+09/01/2021 16:25:06 Click on Parties
+09/01/2021 16:25:19 Adding Billing Account Number Field
+09/01/2021 16:25:37 Entering Billing Account Number :8347100017856090
+09/01/2021 16:25:44 Storing the Parties in a datatable
+09/01/2021 16:25:45 Loop through each party ID
+09/01/2021 16:25:45 Partie ID:22876433
+09/01/2021 16:25:45 Party Name :72546596_102614753
+09/01/2021 16:25:45 Click on Services
+09/01/2021 16:25:51 Enter Party name in party name field
+09/01/2021 16:25:58 Extracting the services into Datatable
+09/01/2021 16:26:00 Loop through each service ID
+09/01/2021 16:26:00 Click on Service ID : 22127622
+09/01/2021 16:26:00 Service is in Disconnected status, Bot will not perform any action  22127622
+09/01/2021 16:26:00 Click on Service ID : 22277642
+09/01/2021 16:26:00 Status is Ready For Install 22277642
+09/01/2021 16:26:00 Click on Service ID : 22277642
+09/01/2021 16:26:18 Cancelled the Ready for install service 22277642
+09/01/2021 16:26:29 Logout from UIM 22277642
+09/01/2021 16:26:32 Started : SAT Sequence
+09/01/2021 16:26:32 SAT Login successful
+09/01/2021 16:26:32 Searching for BAN
+09/01/2021 16:26:36 Found Account number in Gen2 8347100017856090
+09/01/2021 16:26:57 Error: while processing the account numer 8347100017856090
+09/01/2021 16:27:00 Count of transaction data 4
+09/01/2021 16:27:00 Processing Account Number 8347100017855936
+09/01/2021 16:27:00Processing Transaction Number: 1
+09/01/2021 16:27:01 Started : UIM Login Sequence
+09/01/2021 16:27:01 Read UIM Login Credentials
+09/01/2021 16:27:01 Started : UIM process in NCE URL
+09/01/2021 16:27:03 Closing Restore pop-up
+09/01/2021 16:27:15 Entering Username
+09/01/2021 16:27:16 Entering Password
+09/01/2021 16:27:58 Started : UIM process in NCE URL
+09/01/2021 16:27:59 Closing Restore pop-up
+09/01/2021 16:28:10 Entering Username
+09/01/2021 16:28:12 Entering Password
+09/01/2021 16:28:29 UIM Login successful
+09/01/2021 16:28:29 Click on Parties
+09/01/2021 16:28:51 Adding Billing Account Number Field
+09/01/2021 16:29:09 Entering Billing Account Number :8347100017855936
+09/01/2021 16:29:16 Storing the Parties in a datatable
+09/01/2021 16:29:17 Loop through each party ID
+09/01/2021 16:29:17 Partie ID:23026451
+09/01/2021 16:29:17 Party Name :66219922_68708217
+09/01/2021 16:29:17 Click on Services
+09/01/2021 16:29:23 Enter Party name in party name field
+09/01/2021 16:29:30 Extracting the services into Datatable
+09/01/2021 16:29:31 Loop through each service ID
+09/01/2021 16:29:31 Click on Service ID : 22277644
+09/01/2021 16:29:31 Service is in Pending Disconnect status, Bot will not perform any action  22277644
+09/01/2021 16:29:31 Logout from UIM 22277644
+09/01/2021 16:29:34 Started : SAT Sequence
+09/01/2021 16:29:34 SAT Login successful
+09/01/2021 16:29:34 Searching for BAN
+09/01/2021 16:29:41 Found Account number in Gen2 8347100017855936
+09/01/2021 16:29:52 Started SAT process in Gen 2 for 8347100017855936
+09/01/2021 16:30:14 No TV Services associated with the Account Number -  8347100017855936
+09/01/2021 16:30:35 No Internet Services are associated with Account Number - 8347100017855936
+09/01/2021 16:30:57 Error: Unale to find Sync&Provision Button for Wifi Service
+09/01/2021 16:30:58 Count of transaction data 4
+09/01/2021 16:30:58 Processing Account Number 8347100017853972
+09/01/2021 16:30:58Processing Transaction Number: 2
+09/01/2021 16:30:59 Started : UIM Login Sequence
+09/01/2021 16:30:59 Read UIM Login Credentials
+09/01/2021 16:30:59 Started : UIM process in NCE URL
+09/01/2021 16:31:00 Closing Restore pop-up
+09/01/2021 16:31:19 Entering Username
+09/01/2021 16:31:20 Entering Password
+09/01/2021 16:32:02 Started : UIM process in NCE URL
+09/01/2021 16:32:03 Closing Restore pop-up
+09/01/2021 16:32:14 Entering Username
+09/01/2021 16:32:16 Entering Password
+09/01/2021 16:32:58 Started : UIM process in NCE URL
+09/01/2021 16:32:59 Closing Restore pop-up
+09/01/2021 16:33:14 Entering Username
+09/01/2021 16:33:15 Entering Password
+09/01/2021 16:33:31 UIM Login successful
+09/01/2021 16:33:31 Click on Parties
