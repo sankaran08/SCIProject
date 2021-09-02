@@ -390,7 +390,7 @@
                       <x:Boolean x:Key="IsPinned">False</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="798,94.6666666666667" sap2010:WorkflowViewState.IdRef="LogMessage_119" Level="Info" Message="[DateTime.Now.ToString+&quot;Found Account number in Gen2 &quot;+accountNumber]" />
+                  <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="798,94.6666666666667" sap2010:WorkflowViewState.IdRef="LogMessage_119" Level="Info" Message="[DateTime.Now.ToString+&quot; -Found Account number in Gen2 &quot;+accountNumber]" />
                   <ui:AppendLine DisplayName="Append Line" FileName="[logPath+&quot;SCIBOTLog&quot;+&quot;_&quot;+finalDateTime+&quot;.txt&quot;]" sap:VirtualizedContainerService.HintSize="798,135.333333333333" sap2010:WorkflowViewState.IdRef="AppendLine_75" Text="[now.ToString+&quot; Found Account number in Gen2 &quot;+accountNumber]" UseDefaultEncoding="False">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
