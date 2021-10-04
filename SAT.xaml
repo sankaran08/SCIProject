@@ -76,7 +76,6 @@
       <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
       <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
       <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Login" sap:VirtualizedContainerService.HintSize="1590,1716.66666666667" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -2705,7 +2704,7 @@
             <av:Point x:Key="ShapeLocation">290.666666666667,216.666666666667</av:Point>
             <av:Size x:Key="ShapeSize">78.6666666666667,86.6666666666667</av:Size>
             <av:PointCollection x:Key="TrueConnector">290.666666666667,260 180,260 180,360 210,360</av:PointCollection>
-            <av:PointCollection x:Key="FalseConnector">369.333333333334,260 510,260</av:PointCollection>
+            <av:PointCollection x:Key="FalseConnector">369.333333333334,260 399.333333333334,260 399.333333333334,252.333333333333 510,252.333333333333</av:PointCollection>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
         <FlowDecision.False>
@@ -2713,26 +2712,32 @@
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <av:Point x:Key="ShapeLocation">510,226</av:Point>
-                <av:Size x:Key="ShapeSize">200,69.3333333333333</av:Size>
+                <av:Size x:Key="ShapeSize">200,52.6666666666667</av:Size>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Sequence DisplayName="If SAT login unsuccessful" sap:VirtualizedContainerService.HintSize="200,69.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_173">
-              <sap:WorkflowViewStateService.ViewState>
-                <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
-                </scg:Dictionary>
-              </sap:WorkflowViewStateService.ViewState>
-              <ui:AppendLine DisplayName="Append Line" FileName="[logPath+&quot;SCIBOTLog&quot;+&quot;_&quot;+finalDateTime+&quot;.txt&quot;]" sap:VirtualizedContainerService.HintSize="334,135.333333333333" sap2010:WorkflowViewState.IdRef="AppendLine_74" Text="[now.ToString+&quot; SAT Login Unsuccessfull &quot;]" UseDefaultEncoding="False">
-                <sap:WorkflowViewStateService.ViewState>
-                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
-                  </scg:Dictionary>
-                </sap:WorkflowViewStateService.ViewState>
-              </ui:AppendLine>
-              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,94.6666666666667" sap2010:WorkflowViewState.IdRef="LogMessage_118" Level="Error" Message="[DateTime.Now.ToString+&quot;SAT Login Unsuccessfull&quot;]" />
-              <Throw Exception="[new Exception(&quot;SAT login failed&quot;)]" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="Throw_6" />
-            </Sequence>
+            <ui:CommentOut sap:VirtualizedContainerService.HintSize="200,52.6666666666667" sap2010:WorkflowViewState.IdRef="CommentOut_23">
+              <ui:CommentOut.Body>
+                <Sequence DisplayName="Ignored Activities" sap2010:WorkflowViewState.IdRef="Sequence_220">
+                  <Sequence DisplayName="If SAT login unsuccessful" sap:VirtualizedContainerService.HintSize="200,69.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_173">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                        <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <ui:AppendLine DisplayName="Append Line" FileName="[logPath+&quot;SCIBOTLog&quot;+&quot;_&quot;+finalDateTime+&quot;.txt&quot;]" sap:VirtualizedContainerService.HintSize="334,135.333333333333" sap2010:WorkflowViewState.IdRef="AppendLine_74" Text="[now.ToString+&quot; SAT Login Unsuccessfull &quot;]" UseDefaultEncoding="False">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                    </ui:AppendLine>
+                    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,94.6666666666667" sap2010:WorkflowViewState.IdRef="LogMessage_118" Level="Error" Message="[DateTime.Now.ToString+&quot;SAT Login Unsuccessfull&quot;]" />
+                    <Throw Exception="[new Exception(&quot;SAT login failed&quot;)]" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="Throw_6" />
+                  </Sequence>
+                </Sequence>
+              </ui:CommentOut.Body>
+            </ui:CommentOut>
           </FlowStep>
         </FlowDecision.False>
       </FlowDecision>
